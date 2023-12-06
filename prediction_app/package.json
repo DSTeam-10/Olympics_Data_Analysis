@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "numpy": "^0.0.1",
+    "scikit-learn": "^0.1.0"
+  }
+}

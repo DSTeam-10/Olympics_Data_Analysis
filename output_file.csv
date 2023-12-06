@@ -1,499 +1,499 @@
-Team,Sex,Age,NOC,Games,Year,Sport,Event,Medal,AgeGroup,Total_Gold_Medals,Total_Silver_Medals,Total_Bronze_Medals,Total_Historical_Medals,Total_Medal_Value,Sponsorship,Cluster,Sponsorship_Prediction
-A North American Team,M,38.0,MEX,1900 Summer,1900,Polo,Polo Men's Polo,Bronze,35-39,0.0,0.0,4.0,4.0,4.0,0.0007664303506418854,0,1
-Afghanistan,M,21.0,AFG,2008 Summer,2008,Taekwondo,Taekwondo Men's Flyweight,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Algeria,M,26.0,ALG,2000 Summer,2000,Boxing,Boxing Men's Light-Welterweight,Bronze,25-29,5.0,4.0,8.0,17.0,31.0,0.003257328990228013,0,1
-Ali-Baba II,M,28.0,SWE,1948 Summer,1948,Sailing,Sailing Mixed 6 metres,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Amateur Athletic Association,M,29.0,GBR,1900 Summer,1900,Athletics,"Athletics Men's 5,000 metres, Team",Gold,25-29,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Amstel Amsterdam,M,20.0,NED,1908 Summer,1908,Rowing,Rowing Men's Coxless Fours,Bronze,20-24,0.0,0.0,4.0,4.0,4.0,0.0007664303506418854,0,1
-Ancora,M,36.0,GBR,1920 Summer,1920,Sailing,Sailing Mixed 7 metres,Gold,35-39,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Angelita,M,20.0,USA,1932 Summer,1932,Sailing,Sailing Mixed 8 metres,Gold,20-24,12.0,0.0,0.0,12.0,36.0,0.0022992910519256562,0,1
-Antwerpia V,M,37.0,BEL,1920 Summer,1920,Sailing,Sailing Mixed 8 metres,Bronze,35-39,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Aphrodite,M,33.0,USA,1964 Summer,1964,Sailing,Sailing Mixed Three Person Keelboat,Bronze,30-34,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Argentina,M,20.0,ARG,2008 Summer,2008,Football,Football Men's Football,Gold,20-24,91.0,84.0,91.0,266.0,532.0,0.05096761831768538,0,1
-Argonaut Rowing Club,M,25.0,CAN,1908 Summer,1908,Rowing,Rowing Men's Coxless Fours,Bronze,25-29,0.0,0.0,6.0,6.0,6.0,0.0011496455259628281,0,1
-Armenia,M,20.0,ARM,2012 Summer,2012,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",Bronze,20-24,2.0,5.0,9.0,16.0,25.0,0.003065721402567542,0,1
-Aschenbrodel,M,25.556898357297374,GER,1900 Summer,1900,Sailing,Sailing Mixed Open,Silver,25-29,4.0,4.0,0.0,8.0,20.0,0.001532860701283771,0,1
-Atalanta Boat Club-1,M,27.0,USA,1904 Summer,1904,Rowing,Rowing Men's Double Sculls,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Atalanta Boat Club-2,M,27.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Pairs,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Atlanta,M,25.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 12 metres,Gold,25-29,9.0,0.0,0.0,9.0,27.0,0.0017244682889442423,0,1
-Australasia,M,24.0,ANZ,1908 Summer,1908,Boxing,Boxing Men's Middleweight,Silver,20-24,20.0,4.0,5.0,29.0,73.0,0.005556620042153669,0,1
-Australia,M,21.0,AUS,2008 Summer,2008,Hockey,Hockey Men's Hockey,Bronze,20-24,342.0,453.0,511.0,1306.0,2443.0,0.2502395094845756,2,2
-Australia-1,F,21.0,AUS,1996 Summer,1996,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,20-24,2.0,0.0,2.0,4.0,8.0,0.0007664303506418854,0,1
-Australia/Great Britain,M,22.0,AUS,1896 Summer,1896,Tennis,Tennis Men's Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Austria,F,16.0,AUT,1912 Summer,1912,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,15-19,95.0,168.0,150.0,413.0,771.0,0.07913393370377467,0,1
-Austria-1,M,30.0,AUT,1992 Winter,1992,Bobsleigh,Bobsleigh Men's Four,Gold,30-34,12.0,16.0,4.0,32.0,72.0,0.006131442805135084,0,1
-Austria-2,F,21.0,AUT,1928 Winter,1928,Figure Skating,Figure Skating Mixed Pairs,Bronze,20-24,0.0,2.0,2.0,4.0,6.0,0.0007664303506418854,0,1
-Azerbaijan,F,21.0,AZE,2016 Summer,2016,Taekwondo,Taekwondo Women's Flyweight,Bronze,20-24,7.0,12.0,25.0,44.0,70.0,0.00843073385706074,0,1
-"BLO Polo Club, Rugby",M,27.0,GBR,1900 Summer,1900,Polo,Polo Men's Polo,Silver,25-29,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Baby-1,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0-0.5 Ton,Gold,25-29,1.0,0.0,1.0,2.0,4.0,0.0003832151753209427,0,1
-"Bagatelle Polo Club, Paris",M,32.0,FRA,1900 Summer,1900,Polo,Polo Men's Polo,Bronze,30-34,0.0,0.0,4.0,4.0,4.0,0.0007664303506418854,0,1
-Bahamas,M,22.0,BAH,2008 Summer,2008,Athletics,Athletics Men's 4 x 400 metres Relay,Silver,20-24,12.0,11.0,13.0,36.0,71.0,0.006897873155776969,0,1
-Bahrain,F,27.0,BRN,2012 Summer,2012,Athletics,"Athletics Women's 1,500 metres",Bronze,25-29,1.0,1.0,1.0,3.0,6.0,0.0005748227629814141,0,1
-Ballerina IV,M,52.0,SUI,1960 Summer,1960,Sailing,Sailing Mixed 5.5 metres,Bronze,50-54,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Barbados,M,24.0,BAR,2000 Summer,2000,Athletics,Athletics Men's 100 metres,Bronze,20-24,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Barion/Bari-2,M,25.556898357297374,ITA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Silver,25-29,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Barrenjoey,M,59.0,AUS,1964 Summer,1964,Sailing,Sailing Mixed 5.5 metres,Gold,55-59,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Beatrijs III-1,M,50.0,NED,1920 Summer,1920,Sailing,Sailing Mixed 12 foot,Gold,50-54,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Belarus,M,28.0,BLR,2008 Summer,2008,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Gold,25-29,24.0,44.0,71.0,139.0,231.0,0.02663345468480552,0,1
-Belgium,M,44.0,BEL,1920 Summer,1920,Archery,"Archery Men's Target Archery, 28 metres, Team",Silver,40-44,94.0,161.0,154.0,409.0,758.0,0.07836750335313278,0,1
-Belgium-1,M,25.556898357297374,BEL,1924 Winter,1924,Bobsleigh,Bobsleigh Men's Four/Five,Bronze,25-29,1.0,0.0,5.0,6.0,8.0,0.0011496455259628281,0,1
-Bem II,M,49.0,NED,1936 Summer,1936,Sailing,Sailing Mixed Two Person Keelboat,Bronze,45-49,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Bera,M,21.0,NOR,1924 Summer,1924,Sailing,Sailing Mixed 8 metres,Gold,20-24,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Berliner Ruderclub,M,25.556898357297374,GER,1908 Summer,1908,Rowing,Rowing Men's Coxless Pairs,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Berliner Ruderverein von 1876-2,M,25.0,GER,1912 Summer,1912,Rowing,Rowing Men's Coxed Eights,Bronze,25-29,0.0,0.0,9.0,9.0,9.0,0.0017244682889442423,0,1
-Bermuda,M,25.0,BER,1976 Summer,1976,Boxing,Boxing Men's Heavyweight,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Bingo,M,26.0,USA,1964 Summer,1964,Sailing,Sailing Mixed 5.5 metres,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Bissbi,M,20.0,SWE,1932 Summer,1932,Sailing,Sailing Mixed 6 metres,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Bluebottle,M,34.0,GBR,1956 Summer,1956,Sailing,Sailing Mixed Three Person Keelboat,Bronze,30-34,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Bohemia,M,38.0,BOH,1908 Summer,1908,Fencing,"Fencing Men's Sabre, Individual",Bronze,35-39,0.0,1.0,10.0,11.0,12.0,0.002107683464265185,0,1
-Bohemia/Great Britain,F,35.0,BOH,1900 Summer,1900,Tennis,Tennis Mixed Doubles,Bronze,35-39,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Bona Fide,M,50.0,GBR,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Gold,50-54,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Bonaparte,F,46.0,GER,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Gold,45-49,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Bonzo,M,43.0,DEN,1924 Summer,1924,Sailing,Sailing Mixed 6 metres,Silver,40-44,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Boreas-2,M,20.0,NED,1920 Summer,1920,Sailing,Sailing Mixed 12 foot,Silver,20-24,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Boston Archers,M,26.0,USA,1904 Summer,1904,Archery,Archery Men's Team Round,Bronze,25-29,0.0,0.0,4.0,4.0,4.0,0.0007664303506418854,0,1
-Botswana,M,18.0,BOT,2012 Summer,2012,Athletics,Athletics Men's 800 metres,Silver,15-19,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Brazil,M,24.0,BRA,1984 Summer,1984,Football,Football Men's Football,Silver,20-24,103.0,161.0,185.0,449.0,816.0,0.08603180685955164,0,1
-Brazil-1,M,26.0,BRA,2012 Summer,2012,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,25-29,6.0,12.0,2.0,20.0,44.0,0.003832151753209427,0,1
-Brazil-2,M,35.0,BRA,2008 Summer,2008,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Bronze,35-39,0.0,2.0,4.0,6.0,8.0,0.0011496455259628281,0,1
-Brussels Swimming and Water Polo Club,M,25.556898357297374,BEL,1900 Summer,1900,Water Polo,Water Polo Men's Water Polo,Silver,25-29,0.0,10.0,0.0,10.0,20.0,0.0019160758766047135,0,1
-Brynhild-2,M,44.0,GBR,1900 Summer,1900,Sailing,Sailing Mixed 20+ Ton,Silver,40-44,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Bucintoro Venezia,M,25.0,ITA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 mile),Gold,25-29,8.0,0.0,0.0,8.0,24.0,0.001532860701283771,0,1
-Bucintoro Venezia-1,M,25.0,ITA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Gold,25-29,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Bulgaria,M,29.0,BUL,1980 Summer,1980,Wrestling,"Wrestling Men's Middleweight, Freestyle",Gold,25-29,54.0,144.0,144.0,342.0,594.0,0.0655297949798812,0,1
-Buraddoo,M,39.0,AUS,1956 Summer,1956,Sailing,Sailing Mixed 5.5 metres,Bronze,35-39,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Burundi,M,22.0,BDI,1996 Summer,1996,Athletics,"Athletics Men's 5,000 metres",Gold,20-24,1.0,1.0,0.0,2.0,5.0,0.0003832151753209427,0,1
-Cambridge University Boat Club-2,M,19.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxed Eights,Bronze,15-19,0.0,0.0,9.0,9.0,9.0,0.0017244682889442423,0,1
-Cameroon,M,22.0,CMR,2000 Summer,2000,Football,Football Men's Football,Gold,20-24,20.0,1.0,1.0,22.0,63.0,0.00421536692853037,0,1
-Camille,M,46.0,FRA,1908 Summer,1908,Motorboating,Motorboating Mixed A-Class (Open),Gold,45-49,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Canada,F,21.0,CAN,1984 Summer,1984,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,20-24,422.0,413.0,408.0,1243.0,2500.0,0.2381682314619659,2,2
-Canada-1,M,33.0,CAN,1964 Winter,1964,Bobsleigh,Bobsleigh Men's Four,Gold,30-34,16.0,8.0,12.0,36.0,76.0,0.006897873155776969,0,1
-Canada-2,F,29.0,CAN,2010 Winter,2010,Bobsleigh,Bobsleigh Women's Two,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Caprice,M,25.0,CAN,1932 Summer,1932,Sailing,Sailing Mixed 6 metres,Bronze,25-29,0.0,0.0,4.0,4.0,4.0,0.0007664303506418854,0,1
-Carabinier-15,M,31.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Gold,30-34,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-"Central Turnverein, Chicago",M,29.0,USA,1904 Summer,1904,Gymnastics,Gymnastics Men's Team All-Around,Bronze,25-29,0.0,0.0,6.0,6.0,6.0,0.0011496455259628281,0,1
-Century Boat Club-1,M,24.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Fours,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Cercle de l'Aviron Roubaix-4,M,30.0,FRA,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Gold,30-34,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Chicago Athletic Association,M,25.556898357297374,FRA,1904 Summer,1904,Athletics,"Athletics Men's 4 mile, Team",Silver,25-29,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Chicago Athletic Association-2,M,26.0,USA,1904 Summer,1904,Water Polo,Water Polo Men's Water Polo,Silver,25-29,0.0,11.0,0.0,11.0,22.0,0.002107683464265185,0,1
-Chile,F,23.0,CHI,1956 Summer,1956,Athletics,Athletics Women's Javelin Throw,Silver,20-24,3.0,9.0,20.0,32.0,47.0,0.006131442805135084,0,1
-China,M,19.0,CHN,1998 Winter,1998,Short Track Speed Skating,Short Track Speed Skating Men's 500 metres,Silver,15-19,308.0,325.0,268.0,901.0,1842.0,0.17263843648208468,2,2
-China-1,M,28.0,CHN,2008 Summer,2008,Badminton,Badminton Men's Doubles,Silver,25-29,28.0,14.0,10.0,52.0,122.0,0.00996359455834451,0,1
-China-2,F,19.0,CHN,1992 Summer,1992,Table Tennis,Table Tennis Women's Doubles,Gold,15-19,14.0,8.0,12.0,34.0,70.0,0.006514657980456026,0,1
-China-3,F,27.0,CHN,2006 Winter,2006,Figure Skating,Figure Skating Mixed Pairs,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Chinese Taipei,M,25.0,TPE,1992 Summer,1992,Baseball,Baseball Men's Baseball,Silver,25-29,3.0,28.0,18.0,49.0,83.0,0.009388771795363097,0,1
-Christian Brothers' College-1,M,17.0,USA,1904 Summer,1904,Football,Football Men's Football,Silver,15-19,0.0,11.0,0.0,11.0,22.0,0.002107683464265185,0,1
-Chuckles,M,36.0,GBR,1956 Summer,1956,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,35-39,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Cicely-1,M,25.556898357297374,GBR,1900 Summer,1900,Sailing,Sailing Mixed 20+ Ton,Gold,25-29,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Cincinnati Archers,M,25.556898357297374,USA,1904 Summer,1904,Archery,Archery Men's Team Round,Silver,25-29,4.0,4.0,0.0,8.0,20.0,0.001532860701283771,0,1
-Clearwater,F,46.0,DEN,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,45-49,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Club Nautique de Lyon-2,M,25.0,FRA,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Silver,25-29,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Cobweb-1,M,26.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 8 metres,Gold,25-29,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Colombia,F,26.0,COL,2012 Summer,2012,Judo,Judo Women's Middleweight,Bronze,25-29,5.0,8.0,14.0,27.0,45.0,0.005173404866832727,0,1
-Comanche,M,32.0,USA,1952 Summer,1952,Sailing,Sailing Mixed Two Person Keelboat,Silver,30-34,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Complex II,M,38.0,USA,1952 Summer,1952,Sailing,Sailing Mixed 5.5 metres,Gold,35-39,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Cornwall,M,27.0,GBR,1908 Summer,1908,Rugby,Rugby Men's Rugby,Silver,25-29,0.0,15.0,0.0,15.0,30.0,0.0028741138149070704,0,1
-Costa Rica,F,23.0,CRC,1996 Summer,1996,Swimming,Swimming Women's 200 metres Freestyle,Gold,20-24,1.0,1.0,2.0,4.0,7.0,0.0007664303506418854,0,1
-Cote d'Ivoire,M,22.0,CIV,2016 Summer,2016,Taekwondo,Taekwondo Men's Welterweight,Gold,20-24,1.0,1.0,1.0,3.0,6.0,0.0005748227629814141,0,1
-Crabe II-1,M,28.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Crabe II-4,M,28.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Croatia,M,25.0,CRO,1992 Summer,1992,Basketball,Basketball Men's Basketball,Silver,25-29,58.0,54.0,37.0,149.0,319.0,0.02854953056141023,0,1
-Cuba,M,23.0,CUB,2008 Summer,2008,Boxing,Boxing Men's Heavyweight,Bronze,20-24,164.0,127.0,116.0,407.0,862.0,0.07798428817781185,0,1
-Cyprus,M,22.0,CYP,2012 Summer,2012,Sailing,Sailing Men's One Person Dinghy,Silver,20-24,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Czech Republic,M,19.0,CZE,2004 Summer,2004,Athletics,Athletics Men's High Jump,Bronze,15-19,42.0,32.0,60.0,134.0,250.0,0.02567541674650316,0,1
-Czech Republic-1,F,25.0,CZE,2012 Summer,2012,Tennis,Tennis Women's Doubles,Silver,25-29,0.0,4.0,6.0,10.0,14.0,0.0019160758766047135,0,1
-Czechoslovakia,M,25.0,TCH,1976 Summer,1976,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,25-29,81.0,223.0,182.0,486.0,871.0,0.09312128760298907,0,1
-Czechoslovakia-1,M,27.0,TCH,1992 Summer,1992,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Denmark,M,30.0,DEN,1920 Summer,1920,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Gold,30-34,168.0,223.0,162.0,553.0,1112.0,0.10595899597624066,0,1
-Denmark-1,M,33.0,DEN,2012 Summer,2012,Badminton,Badminton Mixed Doubles,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Denmark-2,M,34.0,DEN,2004 Summer,2004,Badminton,Badminton Mixed Doubles,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Denmark/Sweden,M,34.0,DEN,1900 Summer,1900,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,30-34,6.0,0.0,0.0,6.0,18.0,0.0011496455259628281,0,1
-Deutscher Schwimm Verband Berlin,M,18.0,GER,1900 Summer,1900,Swimming,Swimming Men's 200 metres Team Swimming,Gold,15-19,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Devon and Somerset Wanderers,M,25.556898357297374,GBR,1900 Summer,1900,Cricket,Cricket Men's Cricket,Gold,25-29,12.0,0.0,0.0,12.0,36.0,0.0022992910519256562,0,1
-Digby,F,33.0,DEN,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Djibouti,M,31.0,DJI,1988 Summer,1988,Athletics,Athletics Men's Marathon,Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Djinn,M,33.0,ARG,1948 Summer,1948,Sailing,Sailing Mixed 6 metres,Silver,30-34,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Dominican Republic,M,24.0,DOM,2008 Summer,2008,Boxing,Boxing Men's Light-Welterweight,Gold,20-24,3.0,2.0,2.0,7.0,15.0,0.0013412531136232995,0,1
-Don Schufro,M,30.0,DEN,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Dormy-1,M,35.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 6 metres,Gold,35-39,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-East Germany,F,19.0,GDR,1972 Summer,1972,Gymnastics,Gymnastics Women's Team All-Around,Silver,15-19,369.0,309.0,263.0,941.0,1988.0,0.18030273998850355,2,2
-East Germany-1,M,23.0,GDR,1972 Summer,1972,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Gold,20-24,24.0,10.0,8.0,42.0,100.0,0.008047518681739797,0,1
-East Germany-2,M,20.0,GDR,1988 Winter,1988,Luge,Luge Mixed (Men)'s Doubles,Silver,20-24,4.0,8.0,10.0,22.0,38.0,0.00421536692853037,0,1
-Ecuador,M,22.0,ECU,1996 Summer,1996,Athletics,Athletics Men's 20 kilometres Walk,Gold,20-24,1.0,1.0,0.0,2.0,5.0,0.0003832151753209427,0,1
-Edelweiss II-1,M,31.0,BEL,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Gold,30-34,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Egypt,M,21.0,EGY,2012 Summer,2012,Fencing,"Fencing Men's Foil, Individual",Silver,20-24,7.0,8.0,12.0,27.0,49.0,0.005173404866832727,0,1
-Eleda,M,27.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 10 metres,Gold,25-29,7.0,0.0,0.0,7.0,21.0,0.0013412531136232995,0,1
-Elisabeth V,M,25.0,NOR,1924 Summer,1924,Sailing,Sailing Mixed 6 metres,Gold,25-29,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Elisabeth X,M,23.0,NOR,1952 Summer,1952,Sailing,Sailing Mixed 6 metres,Silver,20-24,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Elsie,M,31.0,SWE,1920 Summer,1920,Sailing,Sailing Mixed 40 metres,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Elvis Va,F,43.0,GER,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Gold,40-44,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Emily,M,25.0,GBR,1924 Summer,1924,Sailing,Sailing Mixed 8 metres,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Encore,M,32.0,NOR,1952 Summer,1952,Sailing,Sailing Mixed 5.5 metres,Silver,30-34,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-England,M,24.0,GBR,1912 Summer,1912,Cycling,"Cycling Men's Road Race, Individual",Silver,20-24,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-England-1,M,26.0,GBR,1908 Summer,1908,Hockey,Hockey Men's Hockey,Gold,25-29,11.0,12.0,0.0,23.0,57.0,0.004406974516190841,0,1
-Eritrea,M,22.0,ERI,2004 Summer,2004,Athletics,"Athletics Men's 10,000 metres",Bronze,20-24,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Erna Signe,M,25.0,SWE,1912 Summer,1912,Sailing,Sailing Mixed 12 metres,Silver,25-29,0.0,10.0,0.0,10.0,20.0,0.0019160758766047135,0,1
-Espadarte,M,28.0,POR,1952 Summer,1952,Sailing,Sailing Mixed Two Person Keelboat,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Esterel-1,M,48.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 10-20 Ton,Gold,45-49,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Estonia,M,24.0,EST,2000 Summer,2000,Judo,Judo Men's Half-Middleweight,Bronze,20-24,13.0,12.0,20.0,45.0,83.0,0.008622341444721212,0,1
-Ethiopia,M,21.0,ETH,1992 Summer,1992,Athletics,"Athletics Men's 10,000 metres",Bronze,20-24,22.0,9.0,22.0,53.0,106.0,0.010155202146004981,0,1
-Ethnikos Gymnastikos Syllogos,M,25.556898357297374,GRE,1896 Summer,1896,Gymnastics,"Gymnastics Men's Parallel Bars, Teams",Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Falcon IV,M,25.556898357297374,AUS,1956 Summer,1956,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Fantlet-7,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0-0.5 Ton,Gold,25-29,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Favorite Hammonia-3,M,21.0,GER,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Bronze,20-24,0.0,0.0,6.0,6.0,6.0,0.0011496455259628281,0,1
-Favorite-1,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 2-3 Ton,Silver,25-29,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Femur-1,M,24.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Gold,20-24,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Fiji,M,22.0,FIJ,2016 Summer,2016,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,20-24,13.0,0.0,0.0,13.0,39.0,0.0024908986395861276,0,1
-Finland,M,30.0,FIN,1920 Summer,1920,Swimming,Swimming Men's 200 metres Breaststroke,Bronze,30-34,198.0,263.0,415.0,876.0,1535.0,0.16784824679057292,2,2
-Formosa,M,29.0,USA,1900 Summer,1900,Sailing,Sailing Mixed 20+ Ton,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Fornebo,M,20.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 7 metres,Silver,20-24,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Foxhunters Hurlingham,M,33.0,GBR,1900 Summer,1900,Polo,Polo Men's Polo,Gold,30-34,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-France,M,21.0,FRA,1956 Summer,1956,Cycling,"Cycling Men's Road Race, Team",Gold,20-24,455.0,518.0,577.0,1550.0,2978.0,0.2969917608737306,2,2
-France-1,M,23.0,FRA,1992 Summer,1992,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,20-24,4.0,7.0,11.0,22.0,37.0,0.00421536692853037,0,1
-France-2,M,30.0,FRA,2012 Summer,2012,Tennis,Tennis Men's Doubles,Bronze,30-34,0.0,0.0,4.0,4.0,4.0,0.0007664303506418854,0,1
-France-3,M,26.0,FRA,1920 Summer,1920,Tennis,Tennis Men's Doubles,Bronze,25-29,2.0,0.0,2.0,4.0,8.0,0.0007664303506418854,0,1
-France/Great Britain,M,33.0,GBR,1900 Summer,1900,Tennis,Tennis Mixed Doubles,Silver,30-34,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Frankfurt Club,M,29.0,GER,1900 Summer,1900,Rugby,Rugby Men's Rugby,Silver,25-29,0.0,15.0,0.0,15.0,30.0,0.0028741138149070704,0,1
-Frimousse,M,25.556898357297374,USA,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Gabon,M,23.0,GAB,2012 Summer,2012,Taekwondo,Taekwondo Men's Heavyweight,Silver,20-24,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Gallant,M,36.0,USA,1932 Summer,1932,Sailing,Sailing Mixed 6 metres,Silver,35-39,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Gallia II,M,41.0,RUS,1912 Summer,1912,Sailing,Sailing Mixed 10 metres,Bronze,40-44,0.0,0.0,7.0,7.0,7.0,0.0013412531136232995,0,1
-Galt Football Club,M,24.0,CAN,1904 Summer,1904,Football,Football Men's Football,Gold,20-24,13.0,0.0,0.0,13.0,39.0,0.0024908986395861276,0,1
-Gem,M,41.0,BAH,1964 Summer,1964,Sailing,Sailing Mixed Two Person Keelboat,Gold,40-44,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Gem IV,M,33.0,BAH,1956 Summer,1956,Sailing,Sailing Mixed Two Person Keelboat,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Georgia,M,25.0,GEO,2000 Summer,2000,Weightlifting,Weightlifting Men's Light-Heavyweight,Bronze,25-29,8.0,6.0,18.0,32.0,54.0,0.006131442805135084,0,1
-Germania II,M,30.0,GER,1936 Summer,1936,Sailing,Sailing Mixed 8 metres,Bronze,30-34,0.0,0.0,6.0,6.0,6.0,0.0011496455259628281,0,1
-"Germania Ruder Club, Hamburg-2",M,15.0,GER,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Gold,15-19,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Germany,M,24.0,GER,2002 Winter,2002,Nordic Combined,Nordic Combined Men's Team,Silver,20-24,679.0,627.0,678.0,1984.0,3969.0,0.3801494539183752,2,2
-Germany-1,M,34.0,GER,2000 Summer,2000,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Bronze,30-34,28.0,20.0,22.0,70.0,146.0,0.013412531136232995,0,1
-Germany-2,M,27.0,GER,2010 Winter,2010,Bobsleigh,Bobsleigh Men's Two,Silver,25-29,14.0,4.0,11.0,29.0,61.0,0.005556620042153669,0,1
-Ghana,M,18.0,GHA,1992 Summer,1992,Football,Football Men's Football,Bronze,15-19,0.0,1.0,22.0,23.0,24.0,0.004406974516190841,0,1
-Gitana-2,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Bronze,25-29,0.0,5.0,5.0,10.0,15.0,0.0019160758766047135,0,1
-Glider,M,37.0,USA,1964 Summer,1964,Sailing,Sailing Mixed Two Person Keelboat,Silver,35-39,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Great Britain,M,21.0,GBR,1980 Summer,1980,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Bronze,20-24,519.0,582.0,572.0,1673.0,3293.0,0.32055949415596857,2,2
-Great Britain-1,F,30.0,GBR,1912 Summer,1912,Tennis,"Tennis Mixed Doubles, Covered Courts",Silver,30-34,20.0,10.0,4.0,34.0,84.0,0.006514657980456026,0,1
-Great Britain-2,M,27.0,GBR,2000 Summer,2000,Badminton,Badminton Mixed Doubles,Bronze,25-29,4.0,10.0,14.0,28.0,46.0,0.005365012454493198,0,1
-Great Britain-3,M,38.0,GBR,1908 Summer,1908,Tennis,Tennis Men's Doubles,Bronze,35-39,0.0,2.0,4.0,6.0,8.0,0.0011496455259628281,0,1
-Great Britain/Germany,M,25.0,GBR,1896 Summer,1896,Tennis,Tennis Men's Doubles,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Greece,F,17.0,GRE,2000 Summer,2000,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,Bronze,15-19,42.0,70.0,62.0,174.0,328.0,0.03333972025292201,0,1
-Greece-1,M,25.556898357297374,GRE,1906 Summer,1906,Tennis,Tennis Men's Doubles,Silver,25-29,0.0,6.0,0.0,6.0,12.0,0.0011496455259628281,0,1
-Greece-2,M,26.0,GRE,1906 Summer,1906,Tennis,Tennis Mixed Doubles,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Grenada,M,19.0,GRN,2012 Summer,2012,Athletics,Athletics Men's 400 metres,Gold,15-19,1.0,1.0,0.0,2.0,5.0,0.0003832151753209427,0,1
-Guatemala,M,21.0,GUA,2012 Summer,2012,Athletics,Athletics Men's 20 kilometres Walk,Silver,20-24,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Gustel X,M,40.0,GER,1952 Summer,1952,Sailing,Sailing Mixed Three Person Keelboat,Bronze,40-44,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Guyana,M,22.0,GUY,1980 Summer,1980,Boxing,Boxing Men's Bantamweight,Bronze,20-24,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Guyoni,M,36.0,FRA,1908 Summer,1908,Sailing,Sailing Mixed 6 metres,Bronze,35-39,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Gwendoline-2,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 2-3 Ton,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Gyrinus-1,M,29.0,GBR,1908 Summer,1908,Motorboating,Motorboating Mixed B-Class (Under 60 Feet),Gold,25-29,6.0,0.0,0.0,6.0,18.0,0.0011496455259628281,0,1
-Haiti,M,25.556898357297374,HAI,1924 Summer,1924,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,25-29,0.0,1.0,5.0,6.0,7.0,0.0011496455259628281,0,1
-Heatherbell,M,20.0,FIN,1912 Summer,1912,Sailing,Sailing Mixed 12 metres,Bronze,20-24,0.0,0.0,7.0,7.0,7.0,0.0013412531136232995,0,1
-Heira II,M,44.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 12 metres,Gold,40-44,9.0,0.0,0.0,9.0,27.0,0.0017244682889442423,0,1
-Hera-1,M,36.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 12 metres,Gold,35-39,10.0,0.0,0.0,10.0,30.0,0.0019160758766047135,0,1
-Heroine,M,44.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 7 metres,Gold,40-44,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Hi-Hi,M,30.0,DEN,1928 Summer,1928,Sailing,Sailing Mixed 6 metres,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Hilarius,M,22.0,USA,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Gold,20-24,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Hojwa,M,31.0,SWE,1952 Summer,1952,Sailing,Sailing Mixed 5.5 metres,Bronze,30-34,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Hollandia,M,44.0,NED,1928 Summer,1928,Sailing,Sailing Mixed 8 metres,Silver,40-44,0.0,6.0,0.0,6.0,12.0,0.0011496455259628281,0,1
-Hong Kong,F,25.0,HKG,1996 Summer,1996,Sailing,Sailing Women's Windsurfer,Gold,25-29,1.0,0.0,1.0,2.0,4.0,0.0003832151753209427,0,1
-Hong Kong-2,M,28.0,HKG,2004 Summer,2004,Table Tennis,Table Tennis Men's Doubles,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Humbug V,M,32.0,SWE,1964 Summer,1964,Sailing,Sailing Mixed Two Person Keelboat,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Hungary,M,30.0,HUN,1992 Summer,1992,Fencing,"Fencing Men's Sabre, Team",Silver,30-34,432.0,330.0,365.0,1127.0,2321.0,0.21594175129335122,2,2
-Hungary-1,F,21.0,HUN,1948 Winter,1948,Figure Skating,Figure Skating Mixed Pairs,Silver,20-24,0.0,2.0,6.0,8.0,10.0,0.001532860701283771,0,1
-Hurlingham-2,M,35.0,GBR,1908 Summer,1908,Polo,Polo Men's Polo,Silver,35-39,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Iceland,M,28.0,ISL,2008 Summer,2008,Handball,Handball Men's Handball,Silver,25-29,0.0,15.0,2.0,17.0,32.0,0.003257328990228013,0,1
-Independent Rowing Club-3,M,26.0,USA,1904 Summer,1904,Rowing,Rowing Men's Double Sculls,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-India,M,30.0,IND,1928 Summer,1928,Hockey,Hockey Men's Hockey,Gold,30-34,138.0,19.0,40.0,197.0,492.0,0.037746694769112854,0,1
-Individual Olympic Athletes,M,49.0,IOA,2016 Summer,2016,Shooting,Shooting Men's Double Trap,Gold,45-49,1.0,1.0,3.0,5.0,8.0,0.0009580379383023567,0,1
-Indonesia,F,21.0,INA,2016 Summer,2016,Weightlifting,Weightlifting Women's Flyweight,Silver,20-24,7.0,11.0,9.0,27.0,52.0,0.005173404866832727,0,1
-Indonesia-1,M,29.0,INA,2016 Summer,2016,Badminton,Badminton Mixed Doubles,Gold,25-29,4.0,6.0,4.0,14.0,28.0,0.002682506227246599,0,1
-Iran,M,26.0,IRI,2016 Summer,2016,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",Bronze,25-29,18.0,21.0,29.0,68.0,125.0,0.013029315960912053,0,1
-Iraq,M,25.556898357297374,IRQ,1960 Summer,1960,Weightlifting,Weightlifting Men's Lightweight,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Ireland,M,21.0,IRL,2008 Summer,2008,Boxing,Boxing Men's Light-Flyweight,Bronze,20-24,9.0,13.0,13.0,35.0,66.0,0.006706265568116498,0,1
-Ireland-2,M,21.0,GBR,1908 Summer,1908,Hockey,Hockey Men's Hockey,Silver,20-24,0.0,12.0,0.0,12.0,24.0,0.0022992910519256562,0,1
-Ireland-3,M,33.0,GBR,1908 Summer,1908,Polo,Polo Men's Polo,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Irene,M,36.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 8 metres,Gold,35-39,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Israel,F,25.0,ISR,1992 Summer,1992,Judo,Judo Women's Half-Middleweight,Silver,25-29,1.0,1.0,7.0,9.0,12.0,0.0017244682889442423,0,1
-Italia,M,32.0,ITA,1936 Summer,1936,Sailing,Sailing Mixed 8 metres,Gold,30-34,6.0,0.0,0.0,6.0,18.0,0.0011496455259628281,0,1
-Italy,M,21.0,ITA,2016 Summer,2016,Rowing,Rowing Men's Coxless Pairs,Bronze,20-24,535.0,508.0,484.0,1527.0,3105.0,0.29258478635753976,2,2
-Italy-1,M,21.0,ITA,1968 Winter,1968,Bobsleigh,Bobsleigh Men's Four,Gold,20-24,14.0,8.0,14.0,36.0,72.0,0.006897873155776969,0,1
-Italy-2,M,23.0,ITA,1956 Winter,1956,Bobsleigh,Bobsleigh Men's Two,Silver,20-24,0.0,10.0,4.0,14.0,24.0,0.002682506227246599,0,1
-Jamaica,M,20.0,JAM,2016 Summer,2016,Athletics,Athletics Men's 4 x 400 metres Relay,Silver,20-24,38.0,75.0,44.0,157.0,308.0,0.030082391262694002,0,1
-Japan,M,28.0,JPN,1994 Winter,1994,Nordic Combined,Nordic Combined Men's Team,Gold,25-29,247.0,307.0,357.0,911.0,1712.0,0.1745545123586894,2,2
-Japan-1,F,23.0,JPN,2012 Summer,2012,Badminton,Badminton Women's Doubles,Silver,20-24,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Jest,M,29.0,NZL,1956 Summer,1956,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Jo,M,40.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Gold,40-44,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Jordan,M,20.0,JOR,2016 Summer,2016,Taekwondo,Taekwondo Men's Featherweight,Gold,20-24,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Joy,M,18.0,GBR,1932 Summer,1932,Sailing,Sailing Mixed Two Person Keelboat,Silver,15-19,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Jupiter,M,30.0,USA,1932 Summer,1932,Sailing,Sailing Mixed Two Person Keelboat,Gold,30-34,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-K Division Metropolitan Police Team-3,M,38.0,GBR,1908 Summer,1908,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,35-39,0.0,0.0,8.0,8.0,8.0,0.001532860701283771,0,1
-Kathleen,M,36.0,USA,1956 Summer,1956,Sailing,Sailing Mixed Two Person Keelboat,Gold,35-39,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Kazakhstan,M,21.0,KAZ,2004 Summer,2004,Boxing,Boxing Men's Welterweight,Gold,20-24,20.0,25.0,32.0,77.0,142.0,0.014753784249856294,0,1
-Kenya,M,22.0,KEN,1968 Summer,1968,Athletics,Athletics Men's 4 x 400 metres Relay,Silver,20-24,34.0,41.0,31.0,106.0,215.0,0.020310404292009962,0,1
-Kerstin-1,M,19.0,SWE,1912 Summer,1912,Sailing,Sailing Mixed 6 metres,Bronze,15-19,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Kitty-1,M,29.0,SWE,1912 Summer,1912,Sailing,Sailing Mixed 10 metres,Gold,25-29,8.0,0.0,0.0,8.0,24.0,0.001532860701283771,0,1
-Kosovo,F,25.0,KOS,2016 Summer,2016,Judo,Judo Women's Half-Lightweight,Gold,25-29,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Kristiania Roklub-1,M,23.0,NOR,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Kullan,M,22.0,SWE,1920 Summer,1920,Sailing,Sailing Mixed 30 metres,Gold,20-24,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Kurush II,M,44.0,CUB,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Silver,40-44,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Kuwait,M,33.0,KUW,2000 Summer,2000,Shooting,Shooting Men's Double Trap,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Kyrgyzstan,M,24.0,KGZ,2008 Summer,2008,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",Silver,20-24,0.0,1.0,2.0,3.0,4.0,0.0005748227629814141,0,1
-L'Aile VI,M,46.0,FRA,1928 Summer,1928,Sailing,Sailing Mixed 8 metres,Gold,45-49,6.0,0.0,0.0,6.0,18.0,0.0011496455259628281,0,1
-Lady C,M,33.0,GBR,1964 Summer,1964,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,30-34,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Lalage,M,27.0,GBR,1936 Summer,1936,Sailing,Sailing Mixed 6 metres,Gold,25-29,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-"Large boat, Central Naval Prep School ""Poros""-1",M,25.556898357297374,GRE,1906 Summer,1906,Rowing,Rowing Men's 17-Man Naval Rowing Boats,Gold,25-29,17.0,0.0,0.0,17.0,51.0,0.003257328990228013,0,1
-Latvia,M,28.0,LAT,1936 Summer,1936,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Silver,25-29,3.0,13.0,9.0,25.0,44.0,0.004790189691511784,0,1
-Latvia-1,M,29.0,LAT,2014 Winter,2014,Bobsleigh,Bobsleigh Men's Four,Silver,25-29,0.0,6.0,4.0,10.0,16.0,0.0019160758766047135,0,1
-Laurea-1,M,50.0,GBR,1900 Summer,1900,Sailing,Sailing Mixed 10-20 Ton,Bronze,50-54,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Leander Club #1-1,M,22.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxless Pairs,Gold,20-24,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Leander Club #2-2,M,19.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxless Pairs,Silver,15-19,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Leander Club-1,M,22.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxed Eights,Gold,20-24,18.0,0.0,0.0,18.0,54.0,0.0034489365778884846,0,1
-Leander Club-2,M,22.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxless Fours,Silver,20-24,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Lebanon,M,35.0,LIB,1980 Summer,1980,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Bronze,35-39,0.0,2.0,2.0,4.0,6.0,0.0007664303506418854,0,1
-Lerina,M,29.0,SUI,1900 Summer,1900,Sailing,Sailing Mixed 1-2 Ton,Gold,25-29,3.0,3.0,0.0,6.0,15.0,0.0011496455259628281,0,1
-Libellule de Paris,M,27.0,GBR,1900 Summer,1900,Water Polo,Water Polo Men's Water Polo,Bronze,25-29,0.0,0.0,7.0,7.0,7.0,0.0013412531136232995,0,1
-Liechtenstein,M,30.0,LIE,1988 Winter,1988,Alpine Skiing,Alpine Skiing Men's Slalom,Bronze,30-34,2.0,2.0,5.0,9.0,15.0,0.0017244682889442423,0,1
-"Life boat naval ship ""Spetsai""-1",M,25.556898357297374,GRE,1906 Summer,1906,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,25-29,0.0,7.0,0.0,7.0,14.0,0.0013412531136232995,0,1
-Lithuania,M,26.0,LTU,2000 Summer,2000,Basketball,Basketball Men's Basketball,Bronze,25-29,6.0,7.0,48.0,61.0,80.0,0.011688062847288752,0,1
-Liverpool Police Team-2,M,36.0,GBR,1908 Summer,1908,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,35-39,0.0,8.0,0.0,8.0,16.0,0.001532860701283771,0,1
-Llanoria,M,59.0,USA,1952 Summer,1952,Sailing,Sailing Mixed 6 metres,Gold,55-59,11.0,0.0,0.0,11.0,33.0,0.002107683464265185,0,1
-London City Police-1,M,30.0,GBR,1908 Summer,1908,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,30-34,8.0,0.0,0.0,8.0,24.0,0.001532860701283771,0,1
-Lucky Girl-1,M,26.0,FIN,1912 Summer,1912,Sailing,Sailing Mixed 8 metres,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Ludwigshafener Ruder Verein-1,M,24.0,GER,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Ludwigshafener Ruderverein,M,21.0,GER,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Outriggers",Gold,20-24,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Lully II,M,18.0,NOR,1936 Summer,1936,Sailing,Sailing Mixed 6 metres,Silver,15-19,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Luxembourg,M,26.0,LUX,1920 Summer,1920,Weightlifting,Weightlifting Men's Heavyweight,Silver,25-29,4.0,4.0,0.0,8.0,20.0,0.001532860701283771,0,1
-Lyn-2,M,36.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 8 metres,Silver,35-39,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Ma'Lindo,M,25.0,POR,1960 Summer,1960,Sailing,Sailing Mixed Two Person Keelboat,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Mac Miche,M,27.0,FRA,1912 Summer,1912,Sailing,Sailing Mixed 6 metres,Gold,25-29,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Macedonia,M,26.0,MKD,2000 Summer,2000,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Macky VI,M,21.0,GER,1960 Summer,1960,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,20-24,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Magda IX,M,40.0,NOR,1912 Summer,1912,Sailing,Sailing Mixed 12 metres,Gold,40-44,10.0,0.0,0.0,10.0,30.0,0.0019160758766047135,0,1
-Magdalen College Boat Club-1,M,22.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxless Fours,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Malaysia,M,28.0,MAS,2016 Summer,2016,Cycling,Cycling Men's Keirin,Bronze,25-29,0.0,9.0,3.0,12.0,21.0,0.0022992910519256562,0,1
-Malaysia-1,M,28.0,MAS,1996 Summer,1996,Badminton,Badminton Men's Doubles,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Malaysia-2,M,24.0,MAS,1992 Summer,1992,Badminton,Badminton Men's Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Margaret,M,44.0,USA,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Bronze,40-44,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-"Marinai della nave da guerra ""Varese""",M,25.556898357297374,ITA,1906 Summer,1906,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Gold,25-29,7.0,0.0,17.0,24.0,38.0,0.0045985821038513125,0,1
-Marmi II-1,M,31.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Silver,30-34,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Martha-1,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 1-2 Ton,Silver,25-29,0.0,4.0,4.0,8.0,12.0,0.001532860701283771,0,1
-Mascotte,M,39.0,NED,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Silver,35-39,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Mauritius,M,30.0,MRI,2008 Summer,2008,Boxing,Boxing Men's Bantamweight,Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-May Be,M,23.0,SWE,1936 Summer,1936,Sailing,Sailing Mixed 6 metres,Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Merope,M,40.0,ITA,1952 Summer,1952,Sailing,Sailing Mixed Two Person Keelboat,Gold,40-44,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Merope III,M,44.0,ITA,1956 Summer,1956,Sailing,Sailing Mixed Two Person Keelboat,Silver,40-44,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Mexico,M,19.0,MEX,1984 Summer,1984,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",Silver,15-19,30.0,26.0,51.0,107.0,193.0,0.020502011879670434,0,1
-Mignon-3,M,49.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 2-3 Ton,Bronze,45-49,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Milwaukee Athletic Club-1,M,25.556898357297374,USA,1904 Summer,1904,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,25-29,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Minerva Amsterdam,M,25.0,NED,1900 Summer,1900,Rowing,Rowing Men's Coxed Pairs,Gold,25-29,3.0,5.0,9.0,17.0,28.0,0.003257328990228013,0,1
-Minotaur,M,24.0,USA,1960 Summer,1960,Sailing,Sailing Mixed 5.5 metres,Gold,20-24,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Missouri Athletic Club-3,M,23.0,USA,1904 Summer,1904,Water Polo,Water Polo Men's Water Polo,Bronze,20-24,0.0,0.0,11.0,11.0,11.0,0.002107683464265185,0,1
-Mohawk Indians-2,M,25.556898357297374,CAN,1904 Summer,1904,Lacrosse,Lacrosse Men's Lacrosse,Bronze,25-29,0.0,0.0,12.0,12.0,12.0,0.0022992910519256562,0,1
-Moldova,M,23.0,MDA,2012 Summer,2012,Weightlifting,Weightlifting Men's Middle-Heavyweight,Bronze,20-24,0.0,3.0,5.0,8.0,11.0,0.001532860701283771,0,1
-Monaco,M,29.0,MON,1924 Summer,1924,Art Competitions,Art Competitions Mixed Architecture,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Mongolia,M,23.0,MGL,1968 Summer,1968,Wrestling,"Wrestling Men's Flyweight, Freestyle",Bronze,20-24,2.0,10.0,14.0,26.0,40.0,0.004981797279172255,0,1
-Montenegro,F,25.0,MNE,2012 Summer,2012,Handball,Handball Women's Handball,Silver,25-29,0.0,14.0,0.0,14.0,28.0,0.002682506227246599,0,1
-Morocco,M,29.0,MAR,1988 Summer,1988,Boxing,Boxing Men's Featherweight,Bronze,25-29,6.0,5.0,12.0,23.0,40.0,0.004406974516190841,0,1
-Moseley Wanderers,M,23.0,GBR,1900 Summer,1900,Rugby,Rugby Men's Rugby,Silver,20-24,0.0,15.0,0.0,15.0,30.0,0.0028741138149070704,0,1
-Mosk II,M,41.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 10 metres,Gold,40-44,7.0,0.0,0.0,7.0,21.0,0.0013412531136232995,0,1
-Mouchette-2,M,37.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 12 metres,Silver,35-39,0.0,10.0,0.0,10.0,20.0,0.0019160758766047135,0,1
-Mound City Rowing Club-2,M,16.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Fours,Silver,15-19,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Mozambique,F,23.0,MOZ,1996 Summer,1996,Athletics,Athletics Women's 800 metres,Bronze,20-24,1.0,0.0,1.0,2.0,4.0,0.0003832151753209427,0,1
-Mutafo,M,30.0,GER,1964 Summer,1964,Sailing,Sailing Mixed Three Person Keelboat,Silver,30-34,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Nadine,M,34.0,NED,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Silver,30-34,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Namibia,M,24.0,NAM,1992 Summer,1992,Athletics,Athletics Men's 100 metres,Silver,20-24,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Namoussa,M,44.0,FRA,1924 Summer,1924,Sailing,Sailing Mixed 8 metres,Bronze,40-44,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Nepal,M,25.556898357297374,NEP,1924 Winter,1924,Alpinism,Alpinism Mixed Alpinism,Gold,25-29,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Netherlands,F,22.0,NED,1988 Summer,1988,Hockey,Hockey Women's Hockey,Bronze,20-24,277.0,321.0,390.0,988.0,1863.0,0.1893082966085457,2,2
-Netherlands Antilles,M,19.0,AHO,1988 Summer,1988,Sailing,Sailing Mixed Windsurfer,Silver,15-19,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Netherlands-1,M,26.0,NED,2016 Summer,2016,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-"New College, Oxford-2",M,23.0,GBR,1912 Summer,1912,Rowing,Rowing Men's Coxed Eights,Silver,20-24,0.0,9.0,0.0,9.0,18.0,0.0017244682889442423,0,1
-New York Athletic Club,M,20.0,USA,1904 Summer,1904,Athletics,"Athletics Men's 4 mile, Team",Gold,20-24,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-New York Athletic Club #1-1,M,19.0,USA,1904 Summer,1904,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Gold,15-19,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-New York Athletic Club-1,M,25.556898357297374,USA,1904 Summer,1904,Water Polo,Water Polo Men's Water Polo,Gold,25-29,7.0,0.0,0.0,7.0,21.0,0.0013412531136232995,0,1
-"New York Turnverein, New York",M,27.0,USA,1904 Summer,1904,Gymnastics,Gymnastics Men's Team All-Around,Silver,25-29,0.0,6.0,0.0,6.0,12.0,0.0011496455259628281,0,1
-New Zealand,M,27.0,NZL,1976 Summer,1976,Hockey,Hockey Men's Hockey,Gold,25-29,85.0,56.0,82.0,223.0,449.0,0.04272849204828511,0,1
-Niger,M,21.0,NIG,2016 Summer,2016,Taekwondo,Taekwondo Men's Heavyweight,Silver,20-24,0.0,1.0,1.0,2.0,3.0,0.0003832151753209427,0,1
-Nigeria,M,22.0,NGR,2008 Summer,2008,Football,Football Men's Football,Silver,20-24,23.0,30.0,46.0,99.0,175.0,0.018969151178386663,0,1
-Nina,M,38.0,FIN,1912 Summer,1912,Sailing,Sailing Mixed 10 metres,Silver,35-39,0.0,7.0,0.0,7.0,14.0,0.0013412531136232995,0,1
-Nina Claire-2,M,28.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 1-2 Ton,Bronze,25-29,0.0,0.0,4.0,4.0,4.0,0.0007664303506418854,0,1
-Nirefs,M,28.0,GRE,1960 Summer,1960,Sailing,Sailing Mixed Three Person Keelboat,Gold,25-29,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Norna,M,24.0,NOR,1928 Summer,1928,Sailing,Sailing Mixed 6 metres,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-North Korea,F,28.0,PRK,2008 Summer,2008,Judo,Judo Women's Half-Lightweight,Silver,25-29,16.0,16.0,33.0,65.0,113.0,0.012454493197930638,0,1
-North Korea-1,F,23.0,PRK,1992 Summer,1992,Table Tennis,Table Tennis Women's Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Norway,M,20.0,NOR,1992 Winter,1992,Alpine Skiing,Alpine Skiing Men's Super G,Gold,20-24,299.0,330.0,281.0,910.0,1838.0,0.17436290477102892,2,2
-Nrnberg,M,22.0,NED,1936 Summer,1936,Sailing,Sailing Mixed One Person Dinghy,Gold,20-24,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Nurdug II,M,23.0,DEN,1912 Summer,1912,Sailing,Sailing Mixed 6 metres,Silver,20-24,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Nykjbings paa Falster,M,30.0,DEN,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,30-34,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Olle,M,31.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 2-3 Ton,Gold,30-34,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Omas Helliniki P. S.,M,25.556898357297374,GRE,1906 Summer,1906,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,25-29,0.0,8.0,0.0,8.0,16.0,0.001532860701283771,0,1
-Oranje,M,19.0,NED,1920 Summer,1920,Sailing,Sailing Mixed 6.5 metres,Gold,15-19,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Ormsund Roklub-2,M,29.0,NOR,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-"Osborne Swimming Club, Manchester",M,25.556898357297374,GBR,1900 Summer,1900,Water Polo,Water Polo Men's Water Polo,Gold,25-29,7.0,0.0,0.0,7.0,21.0,0.0013412531136232995,0,1
-Pakistan,M,38.0,PAK,1960 Summer,1960,Hockey,Hockey Men's Hockey,Gold,35-39,42.0,45.0,34.0,121.0,250.0,0.023184518106917035,0,1
-Pan,M,21.0,NOR,1948 Summer,1948,Sailing,Sailing Mixed Three Person Keelboat,Gold,20-24,6.0,0.0,0.0,6.0,18.0,0.0011496455259628281,0,1
-Panama,M,26.0,PAN,1948 Summer,1948,Athletics,Athletics Men's 100 metres,Bronze,25-29,1.0,0.0,2.0,3.0,5.0,0.0005748227629814141,0,1
-Pandora,M,34.0,NZL,1964 Summer,1964,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Gold,30-34,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Paraguay,M,22.0,PAR,2004 Summer,2004,Football,Football Men's Football,Silver,20-24,0.0,17.0,0.0,17.0,34.0,0.003257328990228013,0,1
-Peru,M,19.0,PER,1984 Summer,1984,Shooting,Shooting Mixed Trap,Silver,15-19,1.0,14.0,0.0,15.0,31.0,0.0028741138149070704,0,1
-"Phalainis ton Thorichtou ""Hydra""-2",M,25.556898357297374,GRE,1906 Summer,1906,Rowing,Rowing Men's 17-Man Naval Rowing Boats,Silver,25-29,0.0,17.0,7.0,24.0,41.0,0.0045985821038513125,0,1
-"Philadelphia Turngemeinde, Philadelphia",M,24.0,USA,1904 Summer,1904,Gymnastics,Gymnastics Men's Team All-Around,Gold,20-24,6.0,0.0,0.0,6.0,18.0,0.0011496455259628281,0,1
-Philippines,F,25.0,PHI,2016 Summer,2016,Weightlifting,Weightlifting Women's Featherweight,Silver,25-29,0.0,3.0,7.0,10.0,13.0,0.0019160758766047135,0,1
-Pistoja/Firenze,M,19.0,ITA,1906 Summer,1906,Gymnastics,Gymnastics Men's Team All-Around,Bronze,15-19,0.0,0.0,9.0,9.0,9.0,0.0017244682889442423,0,1
-Poland,M,23.0,POL,1980 Summer,1980,Boxing,Boxing Men's Lightweight,Bronze,20-24,117.0,193.0,253.0,563.0,990.0,0.10787507185284537,0,1
-Poland-1,M,27.0,POL,2000 Summer,2000,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Polyteknisk Roklub-1,M,22.0,DEN,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Portugal,M,24.0,POR,1996 Summer,1996,Sailing,Sailing Men's Two Person Dinghy,Bronze,20-24,4.0,7.0,24.0,35.0,50.0,0.006706265568116498,0,1
-Potomac Archers,M,48.0,USA,1904 Summer,1904,Archery,Archery Men's Team Round,Gold,45-49,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Potsdam,M,26.0,GBR,1936 Summer,1936,Sailing,Sailing Mixed One Person Dinghy,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Puerto Rico,M,21.0,PUR,1992 Summer,1992,Boxing,Boxing Men's Welterweight,Bronze,20-24,1.0,2.0,6.0,9.0,13.0,0.0017244682889442423,0,1
-Pupilles de Neptune de Lille #2-1,M,25.556898357297374,FRA,1900 Summer,1900,Water Polo,Water Polo Men's Water Polo,Bronze,25-29,0.0,0.0,8.0,8.0,8.0,0.001532860701283771,0,1
-Pupilles de Neptune de Lille-1,M,20.0,FRA,1900 Summer,1900,Swimming,Swimming Men's 200 metres Team Swimming,Bronze,20-24,0.0,0.0,4.0,4.0,4.0,0.0007664303506418854,0,1
-Qatar,M,41.0,QAT,2012 Summer,2012,Shooting,Shooting Men's Skeet,Bronze,40-44,0.0,1.0,4.0,5.0,6.0,0.0009580379383023567,0,1
-Quand-Mme-2,M,23.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0-0.5 Ton,Silver,20-24,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Racing Club de France,M,25.556898357297374,FRA,1900 Summer,1900,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,25-29,0.0,11.0,0.0,11.0,22.0,0.002107683464265185,0,1
-Ralia,M,43.0,FIN,1952 Summer,1952,Sailing,Sailing Mixed 6 metres,Bronze,40-44,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Ravenswood Boat Club-2,M,25.556898357297374,USA,1904 Summer,1904,Rowing,Rowing Men's Double Sculls,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Roddklubben af 1912-1,M,25.0,SWE,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,25-29,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Roehampton-1,M,39.0,GBR,1908 Summer,1908,Polo,Polo Men's Polo,Gold,35-39,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Romania,F,16.0,ROU,2008 Summer,2008,Gymnastics,Gymnastics Women's Team All-Around,Bronze,15-19,161.0,200.0,290.0,651.0,1173.0,0.12473653956696686,0,1
-Romania-1,M,26.0,ROU,1968 Winter,1968,Bobsleigh,Bobsleigh Men's Two,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Rose Pompon,M,35.0,FRA,1920 Summer,1920,Sailing,Sailing Mixed 6.5 metres,Silver,35-39,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Rostock,M,35.0,GER,1936 Summer,1936,Sailing,Sailing Mixed One Person Dinghy,Silver,35-39,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Rowing Club Castillon-3,M,36.0,FRA,1900 Summer,1900,Rowing,Rowing Men's Coxed Pairs,Bronze,35-39,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Royal Club Nautique de Gand,M,27.0,BEL,1900 Summer,1900,Rowing,Rowing Men's Coxed Eights,Silver,25-29,0.0,21.0,0.0,21.0,42.0,0.004023759340869898,0,1
-Rush V,M,50.0,SWE,1956 Summer,1956,Sailing,Sailing Mixed 5.5 metres,Gold,50-54,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Rush VII,M,28.0,SWE,1964 Summer,1964,Sailing,Sailing Mixed 5.5 metres,Silver,25-29,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Russia,F,22.0,RUS,2008 Summer,2008,Athletics,Athletics Women's Javelin Throw,Silver,20-24,366.0,351.0,393.0,1110.0,2193.0,0.2126844223031232,2,2
-Russia-1,M,28.0,RUS,2002 Winter,2002,Figure Skating,Figure Skating Mixed Ice Dancing,Silver,25-29,22.0,6.0,8.0,36.0,86.0,0.006897873155776969,0,1
-Russia-2,F,20.0,RUS,1998 Winter,1998,Figure Skating,Figure Skating Mixed Pairs,Silver,20-24,2.0,10.0,0.0,12.0,26.0,0.0022992910519256562,0,1
-Salinero,F,40.0,NED,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Silver,40-44,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Sans Atout-1,M,28.0,SWE,1912 Summer,1912,Sailing,Sailing Mixed 8 metres,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Santa Maria,M,46.0,CAN,1932 Summer,1932,Sailing,Sailing Mixed 8 metres,Silver,45-49,0.0,6.0,0.0,6.0,12.0,0.0011496455259628281,0,1
-Sarcelle-3,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0-0.5 Ton,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Satchmo,F,39.0,GER,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Gold,35-39,1.0,0.0,0.0,1.0,3.0,0.00019160758766047136,0,1
-Saudi Arabia,M,40.0,KSA,2012 Summer,2012,Equestrianism,"Equestrianism Mixed Jumping, Team",Bronze,40-44,0.0,1.0,5.0,6.0,7.0,0.0011496455259628281,0,1
-Scamasaxe-2,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Scamasaxe-3,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Scotia,M,29.0,GBR,1900 Summer,1900,Sailing,Sailing Mixed Open,Gold,25-29,6.0,0.0,0.0,6.0,18.0,0.0011496455259628281,0,1
-Scotland-3,M,24.0,GBR,1908 Summer,1908,Hockey,Hockey Men's Hockey,Bronze,20-24,0.0,0.0,11.0,11.0,11.0,0.002107683464265185,0,1
-Seawanhaka Boat Club-1,M,27.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Pairs,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Senegal,M,29.0,SEN,1988 Summer,1988,Athletics,Athletics Men's 400 metres Hurdles,Silver,25-29,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Serbia,M,26.0,SRB,2012 Summer,2012,Water Polo,Water Polo Men's Water Polo,Bronze,25-29,15.0,29.0,41.0,85.0,144.0,0.016286644951140065,0,1
-Serbia and Montenegro,M,26.0,SCG,1996 Summer,1996,Volleyball,Volleyball Men's Volleyball,Bronze,25-29,12.0,26.0,26.0,64.0,114.0,0.012262885610270167,0,1
-Shrew II,M,52.0,USA,1960 Summer,1960,Sailing,Sailing Mixed Two Person Keelboat,Bronze,50-54,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Sif,M,23.0,SWE,1920 Summer,1920,Sailing,Sailing Mixed 40 metres,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Sildra-1,M,32.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 8 metres,Gold,30-34,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Silja,M,37.0,NOR,1936 Summer,1936,Sailing,Sailing Mixed 8 metres,Silver,35-39,0.0,6.0,0.0,6.0,12.0,0.0011496455259628281,0,1
-Singapore,F,21.0,SGP,2008 Summer,2008,Table Tennis,Table Tennis Women's Team,Silver,20-24,1.0,4.0,4.0,9.0,15.0,0.0017244682889442423,0,1
-Sirene,M,21.0,NOR,1960 Summer,1960,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Gold,20-24,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Skum,M,22.0,DEN,1960 Summer,1960,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,20-24,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Slaghoken,M,42.0,SWE,1948 Summer,1948,Sailing,Sailing Mixed Three Person Keelboat,Silver,40-44,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Slaghoken II,M,50.0,SWE,1956 Summer,1956,Sailing,Sailing Mixed Three Person Keelboat,Gold,50-54,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Slovakia,M,27.0,SVK,2004 Summer,2004,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Bronze,25-29,15.0,19.0,13.0,47.0,96.0,0.009005556620042154,0,1
-Slovenia,F,26.0,SLO,1996 Summer,1996,Athletics,Athletics Women's 100 metres Hurdles,Silver,25-29,8.0,13.0,27.0,48.0,77.0,0.009197164207702625,0,1
-Smyrna,M,25.556898357297374,GBR,1906 Summer,1906,Football,Football Men's Football,Silver,25-29,0.0,11.0,0.0,11.0,22.0,0.002107683464265185,0,1
-Snap,M,23.0,DEN,1948 Summer,1948,Sailing,Sailing Mixed Three Person Keelboat,Bronze,20-24,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Societ Nautique de la Marne-1,M,25.556898357297374,FRA,1900 Summer,1900,Rowing,Rowing Men's Coxed Pairs,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Socit Nautique de Bayonne-1,M,35.0,FRA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 mile),Bronze,35-39,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Socit Nautique de Bayonne-2,M,35.0,FRA,1906 Summer,1906,Rowing,Rowing Men's Coxed Fours,Bronze,35-39,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Socit Nautique de la Basse Seine-1,M,24.0,FRA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Bronze,20-24,0.0,5.0,3.0,8.0,13.0,0.001532860701283771,0,1
-Sorais-2,M,25.556898357297374,GBR,1908 Summer,1908,Sailing,Sailing Mixed 8 metres,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-South Africa,F,17.0,RSA,1956 Summer,1956,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,15-19,32.0,47.0,52.0,131.0,242.0,0.025100593983521748,0,1
-South Korea,M,22.0,KOR,2016 Summer,2016,Judo,Judo Men's Half-Lightweight,Silver,20-24,211.0,222.0,159.0,592.0,1236.0,0.11343169189499905,0,1
-South Korea-1,M,22.0,KOR,1992 Summer,1992,Table Tennis,Table Tennis Men's Doubles,Bronze,20-24,6.0,6.0,18.0,30.0,48.0,0.005748227629814141,0,1
-South Korea-2,M,23.0,KOR,1988 Summer,1988,Table Tennis,Table Tennis Men's Doubles,Bronze,20-24,4.0,4.0,8.0,16.0,28.0,0.003065721402567542,0,1
-Soviet Union,M,26.0,URS,1972 Summer,1972,Wrestling,"Wrestling Men's Featherweight, Freestyle",Gold,25-29,1058.0,716.0,677.0,2451.0,5283.0,0.4696301973558153,2,2
-Soviet Union-1,M,21.0,URS,1984 Winter,1984,Luge,Luge Mixed (Men)'s Doubles,Silver,20-24,22.0,4.0,0.0,26.0,74.0,0.004981797279172255,0,1
-Soviet Union-2,M,26.0,URS,1984 Winter,1984,Bobsleigh,Bobsleigh Men's Two,Bronze,25-29,0.0,12.0,12.0,24.0,36.0,0.0045985821038513125,0,1
-Spain,M,30.0,ESP,2008 Summer,2008,Fencing,"Fencing Men's epee, Individual",Bronze,30-34,108.0,239.0,136.0,483.0,938.0,0.09254646484000767,0,1
-Spain-1,F,26.0,ESP,2008 Summer,2008,Tennis,Tennis Women's Doubles,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Spain-2,M,34.0,ESP,2016 Summer,2016,Tennis,Tennis Men's Doubles,Gold,30-34,2.0,2.0,0.0,4.0,10.0,0.0007664303506418854,0,1
-Sri Lanka,F,24.0,SRI,2000 Summer,2000,Athletics,Athletics Women's 200 metres,Silver,20-24,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-St. Louis Amateur Athletic Association,M,25.556898357297374,USA,1904 Summer,1904,Lacrosse,Lacrosse Men's Lacrosse,Silver,25-29,0.0,12.0,0.0,12.0,24.0,0.0022992910519256562,0,1
-St. Louis Southwest Turnverein #1-2,M,25.556898357297374,USA,1904 Summer,1904,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-St. Louis Southwest Turnverein #2-3,M,22.0,USA,1904 Summer,1904,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-St. Rose-2,M,25.556898357297374,USA,1904 Summer,1904,Football,Football Men's Football,Bronze,25-29,0.0,0.0,12.0,12.0,12.0,0.0022992910519256562,0,1
-Starita,M,40.0,NED,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Bronze,40-44,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Stella-2,M,47.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Bronze,45-49,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Sudan,M,23.0,SUD,2008 Summer,2008,Athletics,Athletics Men's 800 metres,Silver,20-24,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Sunrise,F,31.0,NED,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Silver,30-34,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Sunshine,M,34.0,SWE,1936 Summer,1936,Sailing,Sailing Mixed Two Person Keelboat,Silver,30-34,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Suriname,M,20.0,SUR,1988 Summer,1988,Swimming,Swimming Men's 100 metres Butterfly,Gold,20-24,1.0,0.0,1.0,2.0,4.0,0.0003832151753209427,0,1
-Sweden,M,19.0,SWE,1912 Summer,1912,Athletics,Athletics Men's Long Jump,Bronze,15-19,451.0,476.0,507.0,1434.0,2812.0,0.2747652807051159,2,2
-Sweden-1,F,25.0,SWE,1912 Summer,1912,Tennis,Tennis Mixed Doubles,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Sweden-2,M,34.0,SWE,2008 Summer,2008,Tennis,Tennis Men's Doubles,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Sweden-3,F,25.0,SWE,1912 Summer,1912,Tennis,"Tennis Mixed Doubles, Covered Courts",Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Swedish Star,M,40.0,SWE,1932 Summer,1932,Sailing,Sailing Mixed Two Person Keelboat,Bronze,40-44,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Swift,M,26.0,GBR,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Switzerland,M,22.0,SUI,1924 Summer,1924,Football,Football Men's Football,Silver,20-24,144.0,213.0,231.0,588.0,1089.0,0.11266526154435716,0,1
-Switzerland-1,M,26.0,SUI,1992 Winter,1992,Bobsleigh,Bobsleigh Men's Two,Gold,25-29,20.0,22.0,30.0,72.0,134.0,0.013795746311553938,0,1
-Switzerland-2,M,24.0,SUI,1994 Winter,1994,Bobsleigh,Bobsleigh Men's Two,Silver,20-24,8.0,10.0,4.0,22.0,48.0,0.00421536692853037,0,1
-Sylvia,M,28.0,SWE,1928 Summer,1928,Sailing,Sailing Mixed 8 metres,Bronze,25-29,0.0,0.0,6.0,6.0,6.0,0.0011496455259628281,0,1
-Symphony,M,27.0,POR,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Syria,M,22.0,SYR,2004 Summer,2004,Boxing,Boxing Men's Heavyweight,Bronze,20-24,1.0,1.0,1.0,3.0,6.0,0.0005748227629814141,0,1
-Taifun,M,25.0,NOR,1912 Summer,1912,Sailing,Sailing Mixed 8 metres,Gold,25-29,5.0,0.0,0.0,5.0,15.0,0.0009580379383023567,0,1
-Tajikistan,M,30.0,TJK,2008 Summer,2008,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Silver,30-34,1.0,1.0,2.0,4.0,7.0,0.0007664303506418854,0,1
-Tan-Fe-Pah,M,43.0,BEL,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Silver,40-44,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Tango,M,45.0,ARG,1960 Summer,1960,Sailing,Sailing Mixed Three Person Keelboat,Silver,45-49,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Tanzania,M,27.0,TAN,1980 Summer,1980,Athletics,"Athletics Men's 3,000 metres Steeplechase",Silver,25-29,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-Thailand,M,24.0,THA,2004 Summer,2004,Boxing,Boxing Men's Light-Welterweight,Gold,20-24,9.0,8.0,13.0,30.0,56.0,0.005748227629814141,0,1
-Thames Rowing Club,M,43.0,GBR,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,40-44,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Thessalonki-1,M,25.556898357297374,GRE,1906 Summer,1906,Football,Football Men's Football,Bronze,25-29,0.0,0.0,11.0,11.0,11.0,0.002107683464265185,0,1
-Tip,M,26.0,DEN,1956 Summer,1956,Sailing,Sailing Mixed Three Person Keelboat,Silver,25-29,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-Togo,M,27.0,TOG,2008 Summer,2008,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Tonga,M,26.0,TGA,1996 Summer,1996,Boxing,Boxing Men's Super-Heavyweight,Silver,25-29,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-Tornado,M,39.0,SWE,1952 Summer,1952,Sailing,Sailing Mixed Three Person Keelboat,Silver,35-39,2.0,3.0,0.0,5.0,12.0,0.0009580379383023567,0,1
-Toronto Argonauts,M,25.556898357297374,CAN,1904 Summer,1904,Rowing,Rowing Men's Coxed Eights,Silver,25-29,0.0,9.0,9.0,18.0,27.0,0.0034489365778884846,0,1
-Trans-Mississippi Golf Association-2,M,38.0,USA,1904 Summer,1904,Golf,Golf Men's Team,Silver,35-39,0.0,10.0,0.0,10.0,20.0,0.0019160758766047135,0,1
-Trinidad and Tobago,M,23.0,TTO,2012 Summer,2012,Athletics,Athletics Men's 4 x 400 metres Relay,Bronze,20-24,7.0,8.0,17.0,32.0,54.0,0.006131442805135084,0,1
-Tritons Lillois-2,M,25.556898357297374,FRA,1900 Summer,1900,Swimming,Swimming Men's 200 metres Team Swimming,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Tunisia,F,27.0,TUN,2016 Summer,2016,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,25-29,3.0,3.0,7.0,13.0,22.0,0.0024908986395861276,0,1
-Turkey,F,25.0,TUR,2008 Summer,2008,Athletics,"Athletics Women's 5,000 metres",Silver,25-29,40.0,27.0,28.0,95.0,202.0,0.018202720827744778,0,1
-Turquoise-1,M,32.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed Open,Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0.00019160758766047136,0,1
-Tutti V,M,29.0,EST,1928 Summer,1928,Sailing,Sailing Mixed 6 metres,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-USFSA,M,18.0,FRA,1900 Summer,1900,Football,Football Men's Football,Silver,15-19,0.0,13.0,0.0,13.0,26.0,0.0024908986395861276,0,1
-Uganda,M,22.0,UGA,1972 Summer,1972,Athletics,Athletics Men's 400 metres Hurdles,Gold,20-24,2.0,3.0,2.0,7.0,14.0,0.0013412531136232995,0,1
-Ukraine,M,35.0,UKR,2008 Summer,2008,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Gold,35-39,47.0,52.0,98.0,197.0,343.0,0.037746694769112854,0,1
-Ukraine-1,M,33.0,UKR,2006 Winter,2006,Figure Skating,Figure Skating Mixed Ice Dancing,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Unified Team,M,26.0,EUN,1992 Summer,1992,Athletics,Athletics Men's Hammer Throw,Gold,25-29,123.0,69.0,79.0,271.0,586.0,0.05192565625598774,0,1
-Unified Team-1,M,24.0,EUN,1992 Winter,1992,Figure Skating,Figure Skating Mixed Pairs,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0.0007664303506418854,0,1
-Unified Team-2,F,26.0,EUN,1992 Winter,1992,Figure Skating,Figure Skating Mixed Pairs,Silver,25-29,0.0,2.0,2.0,4.0,6.0,0.0007664303506418854,0,1
-Union des Socits Franais de Sports Athletiques,M,20.0,FRA,1900 Summer,1900,Rugby,Rugby Men's Rugby,Gold,20-24,17.0,12.0,0.0,29.0,75.0,0.005556620042153669,0,1
-United Arab Emirates,M,40.0,UAE,2004 Summer,2004,Shooting,Shooting Men's Double Trap,Gold,40-44,1.0,0.0,1.0,2.0,4.0,0.0003832151753209427,0,1
-United Arab Republic,M,24.0,UAR,1960 Summer,1960,Boxing,Boxing Men's Flyweight,Bronze,20-24,0.0,1.0,1.0,2.0,3.0,0.0003832151753209427,0,1
-United States,M,26.0,USA,2004 Summer,2004,Wrestling,"Wrestling Men's Featherweight, Freestyle",Silver,25-29,2474.0,1512.0,1233.0,5219.0,11679.0,1.0,1,3
-United States Golf Association-3,M,20.0,USA,1904 Summer,1904,Golf,Golf Men's Team,Bronze,20-24,0.0,0.0,10.0,10.0,10.0,0.0019160758766047135,0,1
-United States Virgin Islands,M,27.0,ISV,1988 Summer,1988,Sailing,Sailing Mixed One Person Dinghy,Silver,25-29,0.0,1.0,0.0,1.0,2.0,0.00019160758766047136,0,1
-United States-1,M,24.0,USA,2006 Winter,2006,Figure Skating,Figure Skating Mixed Ice Dancing,Silver,20-24,38.0,33.0,30.0,101.0,210.0,0.019352366353707608,0,1
-United States-2,F,25.0,USA,2002 Winter,2002,Bobsleigh,Bobsleigh Women's Two,Gold,25-29,17.0,14.0,20.0,51.0,99.0,0.009771986970684038,0,1
-United States-3,M,27.0,USA,1904 Summer,1904,Tennis,Tennis Men's Doubles,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-United States-4,M,22.0,USA,1904 Summer,1904,Tennis,Tennis Men's Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-United States/France,M,40.0,USA,1900 Summer,1900,Tennis,Tennis Men's Doubles,Silver,40-44,0.0,2.0,0.0,2.0,4.0,0.0003832151753209427,0,1
-United States/Great Britain,M,24.0,GBR,1900 Summer,1900,Tennis,Tennis Mixed Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Univ. of Brussels,M,25.556898357297374,BEL,1900 Summer,1900,Football,Football Men's Football,Bronze,25-29,0.0,0.0,11.0,11.0,11.0,0.002107683464265185,0,1
-Upton Park FC,M,24.0,GBR,1900 Summer,1900,Football,Football Men's Football,Gold,20-24,11.0,0.0,0.0,11.0,33.0,0.002107683464265185,0,1
-Uruguay,M,27.0,URU,1952 Summer,1952,Basketball,Basketball Men's Basketball,Bronze,25-29,31.0,2.0,30.0,63.0,127.0,0.012071278022609695,0,1
-Uzbekistan,M,26.0,UZB,2000 Summer,2000,Boxing,Boxing Men's Light-Welterweight,Gold,25-29,10.0,7.0,17.0,34.0,61.0,0.006514657980456026,0,1
-Venezuela,M,20.0,VEN,1984 Summer,1984,Boxing,Boxing Men's Light-Flyweight,Bronze,20-24,2.0,3.0,10.0,15.0,22.0,0.0028741138149070704,0,1
-Venilia,M,27.0,ITA,1960 Summer,1960,Sailing,Sailing Mixed Three Person Keelboat,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Vesper Boat Club,M,15.0,USA,1900 Summer,1900,Rowing,Rowing Men's Coxed Eights,Gold,15-19,18.0,0.0,0.0,18.0,54.0,0.0034489365778884846,0,1
-Vietnam,M,23.0,VIE,2008 Summer,2008,Weightlifting,Weightlifting Men's Bantamweight,Silver,20-24,1.0,3.0,0.0,4.0,9.0,0.0007664303506418854,0,1
-Vinga-1,M,43.0,SWE,1908 Summer,1908,Sailing,Sailing Mixed 8 metres,Silver,40-44,0.0,5.0,0.0,5.0,10.0,0.0009580379383023567,0,1
-Vision,M,34.0,GBR,1956 Summer,1956,Sailing,Sailing Mixed 5.5 metres,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0.0007664303506418854,0,1
-Wales-4,M,25.556898357297374,GBR,1908 Summer,1908,Hockey,Hockey Men's Hockey,Bronze,25-29,0.0,0.0,11.0,11.0,11.0,0.002107683464265185,0,1
-Wannsee,M,32.0,GER,1936 Summer,1936,Sailing,Sailing Mixed Two Person Keelboat,Gold,30-34,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-Web II,M,48.0,DEN,1960 Summer,1960,Sailing,Sailing Mixed 5.5 metres,Silver,45-49,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
-West Germany,M,20.0,FRG,1984 Summer,1984,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",Bronze,20-24,155.0,184.0,219.0,558.0,1052.0,0.10691703391454302,0,1
-West Germany-1,M,26.0,FRG,1968 Winter,1968,Bobsleigh,Bobsleigh Men's Two,Silver,25-29,2.0,10.0,14.0,26.0,40.0,0.004981797279172255,0,1
-West Germany-2,M,25.0,FRG,1972 Winter,1972,Bobsleigh,Bobsleigh Men's Two,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0.0003832151753209427,0,1
-West Indies Federation,M,30.0,WIF,1960 Summer,1960,Athletics,Athletics Men's 4 x 400 metres Relay,Bronze,30-34,0.0,0.0,5.0,5.0,5.0,0.0009580379383023567,0,1
-Western Golf Association-1,M,17.0,USA,1904 Summer,1904,Golf,Golf Men's Team,Gold,15-19,10.0,0.0,0.0,10.0,30.0,0.0019160758766047135,0,1
-Western Rowing Club-3,M,33.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Pairs,Bronze,30-34,0.0,0.0,6.0,6.0,6.0,0.0011496455259628281,0,1
-White Lady,M,49.0,DEN,1964 Summer,1964,Sailing,Sailing Mixed Three Person Keelboat,Gold,45-49,3.0,0.0,0.0,3.0,9.0,0.0005748227629814141,0,1
-Widgeon,M,34.0,USA,1964 Summer,1964,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0.0003832151753209427,0,1
-Willem-Six,M,27.0,NED,1924 Summer,1924,Sailing,Sailing Mixed 6 metres,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0.0005748227629814141,0,1
-Winnipeg Shamrocks-1,M,22.0,CAN,1904 Summer,1904,Lacrosse,Lacrosse Men's Lacrosse,Gold,20-24,12.0,0.0,0.0,12.0,36.0,0.0022992910519256562,0,1
-Yugoslavia,F,19.0,YUG,1980 Summer,1980,Handball,Handball Women's Handball,Silver,15-19,130.0,167.0,93.0,390.0,817.0,0.07472695918758383,0,1
-Zambia,M,27.0,ZAM,1996 Summer,1996,Athletics,Athletics Men's 400 metres Hurdles,Silver,25-29,0.0,1.0,1.0,2.0,3.0,0.0003832151753209427,0,1
-Zimbabwe,F,30.0,ZIM,1980 Summer,1980,Hockey,Hockey Women's Hockey,Gold,30-34,17.0,4.0,1.0,22.0,60.0,0.00421536692853037,0,1
-Zut,M,31.0,BEL,1908 Summer,1908,Sailing,Sailing Mixed 6 metres,Silver,30-34,0.0,3.0,0.0,3.0,6.0,0.0005748227629814141,0,1
+Team,Sex,Age,NOC,Games,Year,Sport,Event,Medal,AgeGroup,Total_Gold_Medals,Total_Silver_Medals,Total_Bronze_Medals,Total_Historical_Medals,Total_Medal_Value,Cluster,Sponsorship_Prediction
+A North American Team,M,38.0,MEX,1900 Summer,1900,Polo,Polo Men's Polo,Bronze,35-39,0.0,0.0,4.0,4.0,4.0,0,Low Probability
+Afghanistan,M,21.0,AFG,2008 Summer,2008,Taekwondo,Taekwondo Men's Flyweight,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Algeria,M,26.0,ALG,2000 Summer,2000,Boxing,Boxing Men's Light-Welterweight,Bronze,25-29,5.0,4.0,8.0,17.0,31.0,0,Low Probability
+Ali-Baba II,M,28.0,SWE,1948 Summer,1948,Sailing,Sailing Mixed 6 metres,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Amateur Athletic Association,M,29.0,GBR,1900 Summer,1900,Athletics,"Athletics Men's 5,000 metres, Team",Gold,25-29,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Amstel Amsterdam,M,20.0,NED,1908 Summer,1908,Rowing,Rowing Men's Coxless Fours,Bronze,20-24,0.0,0.0,4.0,4.0,4.0,0,Low Probability
+Ancora,M,36.0,GBR,1920 Summer,1920,Sailing,Sailing Mixed 7 metres,Gold,35-39,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Angelita,M,20.0,USA,1932 Summer,1932,Sailing,Sailing Mixed 8 metres,Gold,20-24,12.0,0.0,0.0,12.0,36.0,0,Low Probability
+Antwerpia V,M,37.0,BEL,1920 Summer,1920,Sailing,Sailing Mixed 8 metres,Bronze,35-39,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Aphrodite,M,33.0,USA,1964 Summer,1964,Sailing,Sailing Mixed Three Person Keelboat,Bronze,30-34,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Argentina,M,20.0,ARG,2008 Summer,2008,Football,Football Men's Football,Gold,20-24,91.0,84.0,91.0,266.0,532.0,0,Low Probability
+Argonaut Rowing Club,M,25.0,CAN,1908 Summer,1908,Rowing,Rowing Men's Coxless Fours,Bronze,25-29,0.0,0.0,6.0,6.0,6.0,0,Low Probability
+Armenia,M,20.0,ARM,2012 Summer,2012,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",Bronze,20-24,2.0,5.0,9.0,16.0,25.0,0,Low Probability
+Aschenbrodel,M,25.556898357297374,GER,1900 Summer,1900,Sailing,Sailing Mixed Open,Silver,25-29,4.0,4.0,0.0,8.0,20.0,0,Low Probability
+Atalanta Boat Club-1,M,27.0,USA,1904 Summer,1904,Rowing,Rowing Men's Double Sculls,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Atalanta Boat Club-2,M,27.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Pairs,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Atlanta,M,25.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 12 metres,Gold,25-29,9.0,0.0,0.0,9.0,27.0,0,Low Probability
+Australasia,M,24.0,ANZ,1908 Summer,1908,Boxing,Boxing Men's Middleweight,Silver,20-24,20.0,4.0,5.0,29.0,73.0,0,Low Probability
+Australia,M,21.0,AUS,2008 Summer,2008,Hockey,Hockey Men's Hockey,Bronze,20-24,342.0,453.0,511.0,1306.0,2443.0,2,High Probability
+Australia-1,F,21.0,AUS,1996 Summer,1996,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,20-24,2.0,0.0,2.0,4.0,8.0,0,Low Probability
+Australia/Great Britain,M,22.0,AUS,1896 Summer,1896,Tennis,Tennis Men's Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Austria,F,16.0,AUT,1912 Summer,1912,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,15-19,95.0,168.0,150.0,413.0,771.0,0,Low Probability
+Austria-1,M,30.0,AUT,1992 Winter,1992,Bobsleigh,Bobsleigh Men's Four,Gold,30-34,12.0,16.0,4.0,32.0,72.0,0,Low Probability
+Austria-2,F,21.0,AUT,1928 Winter,1928,Figure Skating,Figure Skating Mixed Pairs,Bronze,20-24,0.0,2.0,2.0,4.0,6.0,0,Low Probability
+Azerbaijan,F,21.0,AZE,2016 Summer,2016,Taekwondo,Taekwondo Women's Flyweight,Bronze,20-24,7.0,12.0,25.0,44.0,70.0,0,Low Probability
+"BLO Polo Club, Rugby",M,27.0,GBR,1900 Summer,1900,Polo,Polo Men's Polo,Silver,25-29,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Baby-1,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0-0.5 Ton,Gold,25-29,1.0,0.0,1.0,2.0,4.0,0,Low Probability
+"Bagatelle Polo Club, Paris",M,32.0,FRA,1900 Summer,1900,Polo,Polo Men's Polo,Bronze,30-34,0.0,0.0,4.0,4.0,4.0,0,Low Probability
+Bahamas,M,22.0,BAH,2008 Summer,2008,Athletics,Athletics Men's 4 x 400 metres Relay,Silver,20-24,12.0,11.0,13.0,36.0,71.0,0,Low Probability
+Bahrain,F,27.0,BRN,2012 Summer,2012,Athletics,"Athletics Women's 1,500 metres",Bronze,25-29,1.0,1.0,1.0,3.0,6.0,0,Low Probability
+Ballerina IV,M,52.0,SUI,1960 Summer,1960,Sailing,Sailing Mixed 5.5 metres,Bronze,50-54,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Barbados,M,24.0,BAR,2000 Summer,2000,Athletics,Athletics Men's 100 metres,Bronze,20-24,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Barion/Bari-2,M,25.556898357297374,ITA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Silver,25-29,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Barrenjoey,M,59.0,AUS,1964 Summer,1964,Sailing,Sailing Mixed 5.5 metres,Gold,55-59,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Beatrijs III-1,M,50.0,NED,1920 Summer,1920,Sailing,Sailing Mixed 12 foot,Gold,50-54,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Belarus,M,28.0,BLR,2008 Summer,2008,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Gold,25-29,24.0,44.0,71.0,139.0,231.0,0,Low Probability
+Belgium,M,44.0,BEL,1920 Summer,1920,Archery,"Archery Men's Target Archery, 28 metres, Team",Silver,40-44,94.0,161.0,154.0,409.0,758.0,0,Low Probability
+Belgium-1,M,25.556898357297374,BEL,1924 Winter,1924,Bobsleigh,Bobsleigh Men's Four/Five,Bronze,25-29,1.0,0.0,5.0,6.0,8.0,0,Low Probability
+Bem II,M,49.0,NED,1936 Summer,1936,Sailing,Sailing Mixed Two Person Keelboat,Bronze,45-49,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Bera,M,21.0,NOR,1924 Summer,1924,Sailing,Sailing Mixed 8 metres,Gold,20-24,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Berliner Ruderclub,M,25.556898357297374,GER,1908 Summer,1908,Rowing,Rowing Men's Coxless Pairs,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Berliner Ruderverein von 1876-2,M,25.0,GER,1912 Summer,1912,Rowing,Rowing Men's Coxed Eights,Bronze,25-29,0.0,0.0,9.0,9.0,9.0,0,Low Probability
+Bermuda,M,25.0,BER,1976 Summer,1976,Boxing,Boxing Men's Heavyweight,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Bingo,M,26.0,USA,1964 Summer,1964,Sailing,Sailing Mixed 5.5 metres,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Bissbi,M,20.0,SWE,1932 Summer,1932,Sailing,Sailing Mixed 6 metres,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Bluebottle,M,34.0,GBR,1956 Summer,1956,Sailing,Sailing Mixed Three Person Keelboat,Bronze,30-34,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Bohemia,M,38.0,BOH,1908 Summer,1908,Fencing,"Fencing Men's Sabre, Individual",Bronze,35-39,0.0,1.0,10.0,11.0,12.0,0,Low Probability
+Bohemia/Great Britain,F,35.0,BOH,1900 Summer,1900,Tennis,Tennis Mixed Doubles,Bronze,35-39,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Bona Fide,M,50.0,GBR,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Gold,50-54,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Bonaparte,F,46.0,GER,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Gold,45-49,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Bonzo,M,43.0,DEN,1924 Summer,1924,Sailing,Sailing Mixed 6 metres,Silver,40-44,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Boreas-2,M,20.0,NED,1920 Summer,1920,Sailing,Sailing Mixed 12 foot,Silver,20-24,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Boston Archers,M,26.0,USA,1904 Summer,1904,Archery,Archery Men's Team Round,Bronze,25-29,0.0,0.0,4.0,4.0,4.0,0,Low Probability
+Botswana,M,18.0,BOT,2012 Summer,2012,Athletics,Athletics Men's 800 metres,Silver,15-19,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Brazil,M,24.0,BRA,1984 Summer,1984,Football,Football Men's Football,Silver,20-24,103.0,161.0,185.0,449.0,816.0,0,Low Probability
+Brazil-1,M,26.0,BRA,2012 Summer,2012,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,25-29,6.0,12.0,2.0,20.0,44.0,0,Low Probability
+Brazil-2,M,35.0,BRA,2008 Summer,2008,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Bronze,35-39,0.0,2.0,4.0,6.0,8.0,0,Low Probability
+Brussels Swimming and Water Polo Club,M,25.556898357297374,BEL,1900 Summer,1900,Water Polo,Water Polo Men's Water Polo,Silver,25-29,0.0,10.0,0.0,10.0,20.0,0,Low Probability
+Brynhild-2,M,44.0,GBR,1900 Summer,1900,Sailing,Sailing Mixed 20+ Ton,Silver,40-44,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Bucintoro Venezia,M,25.0,ITA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 mile),Gold,25-29,8.0,0.0,0.0,8.0,24.0,0,Low Probability
+Bucintoro Venezia-1,M,25.0,ITA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Gold,25-29,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Bulgaria,M,29.0,BUL,1980 Summer,1980,Wrestling,"Wrestling Men's Middleweight, Freestyle",Gold,25-29,54.0,144.0,144.0,342.0,594.0,0,Low Probability
+Buraddoo,M,39.0,AUS,1956 Summer,1956,Sailing,Sailing Mixed 5.5 metres,Bronze,35-39,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Burundi,M,22.0,BDI,1996 Summer,1996,Athletics,"Athletics Men's 5,000 metres",Gold,20-24,1.0,1.0,0.0,2.0,5.0,0,Low Probability
+Cambridge University Boat Club-2,M,19.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxed Eights,Bronze,15-19,0.0,0.0,9.0,9.0,9.0,0,Low Probability
+Cameroon,M,22.0,CMR,2000 Summer,2000,Football,Football Men's Football,Gold,20-24,20.0,1.0,1.0,22.0,63.0,0,Low Probability
+Camille,M,46.0,FRA,1908 Summer,1908,Motorboating,Motorboating Mixed A-Class (Open),Gold,45-49,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Canada,F,21.0,CAN,1984 Summer,1984,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,20-24,422.0,413.0,408.0,1243.0,2500.0,2,High Probability
+Canada-1,M,33.0,CAN,1964 Winter,1964,Bobsleigh,Bobsleigh Men's Four,Gold,30-34,16.0,8.0,12.0,36.0,76.0,0,Low Probability
+Canada-2,F,29.0,CAN,2010 Winter,2010,Bobsleigh,Bobsleigh Women's Two,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Caprice,M,25.0,CAN,1932 Summer,1932,Sailing,Sailing Mixed 6 metres,Bronze,25-29,0.0,0.0,4.0,4.0,4.0,0,Low Probability
+Carabinier-15,M,31.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Gold,30-34,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+"Central Turnverein, Chicago",M,29.0,USA,1904 Summer,1904,Gymnastics,Gymnastics Men's Team All-Around,Bronze,25-29,0.0,0.0,6.0,6.0,6.0,0,Low Probability
+Century Boat Club-1,M,24.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Fours,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Cercle de l'Aviron Roubaix-4,M,30.0,FRA,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Gold,30-34,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Chicago Athletic Association,M,25.556898357297374,FRA,1904 Summer,1904,Athletics,"Athletics Men's 4 mile, Team",Silver,25-29,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Chicago Athletic Association-2,M,26.0,USA,1904 Summer,1904,Water Polo,Water Polo Men's Water Polo,Silver,25-29,0.0,11.0,0.0,11.0,22.0,0,Low Probability
+Chile,F,23.0,CHI,1956 Summer,1956,Athletics,Athletics Women's Javelin Throw,Silver,20-24,3.0,9.0,20.0,32.0,47.0,0,Low Probability
+China,M,19.0,CHN,1998 Winter,1998,Short Track Speed Skating,Short Track Speed Skating Men's 500 metres,Silver,15-19,308.0,325.0,268.0,901.0,1842.0,2,High Probability
+China-1,M,28.0,CHN,2008 Summer,2008,Badminton,Badminton Men's Doubles,Silver,25-29,28.0,14.0,10.0,52.0,122.0,0,Low Probability
+China-2,F,19.0,CHN,1992 Summer,1992,Table Tennis,Table Tennis Women's Doubles,Gold,15-19,14.0,8.0,12.0,34.0,70.0,0,Low Probability
+China-3,F,27.0,CHN,2006 Winter,2006,Figure Skating,Figure Skating Mixed Pairs,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Chinese Taipei,M,25.0,TPE,1992 Summer,1992,Baseball,Baseball Men's Baseball,Silver,25-29,3.0,28.0,18.0,49.0,83.0,0,Low Probability
+Christian Brothers' College-1,M,17.0,USA,1904 Summer,1904,Football,Football Men's Football,Silver,15-19,0.0,11.0,0.0,11.0,22.0,0,Low Probability
+Chuckles,M,36.0,GBR,1956 Summer,1956,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,35-39,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Cicely-1,M,25.556898357297374,GBR,1900 Summer,1900,Sailing,Sailing Mixed 20+ Ton,Gold,25-29,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Cincinnati Archers,M,25.556898357297374,USA,1904 Summer,1904,Archery,Archery Men's Team Round,Silver,25-29,4.0,4.0,0.0,8.0,20.0,0,Low Probability
+Clearwater,F,46.0,DEN,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,45-49,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Club Nautique de Lyon-2,M,25.0,FRA,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Silver,25-29,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Cobweb-1,M,26.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 8 metres,Gold,25-29,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Colombia,F,26.0,COL,2012 Summer,2012,Judo,Judo Women's Middleweight,Bronze,25-29,5.0,8.0,14.0,27.0,45.0,0,Low Probability
+Comanche,M,32.0,USA,1952 Summer,1952,Sailing,Sailing Mixed Two Person Keelboat,Silver,30-34,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Complex II,M,38.0,USA,1952 Summer,1952,Sailing,Sailing Mixed 5.5 metres,Gold,35-39,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Cornwall,M,27.0,GBR,1908 Summer,1908,Rugby,Rugby Men's Rugby,Silver,25-29,0.0,15.0,0.0,15.0,30.0,0,Low Probability
+Costa Rica,F,23.0,CRC,1996 Summer,1996,Swimming,Swimming Women's 200 metres Freestyle,Gold,20-24,1.0,1.0,2.0,4.0,7.0,0,Low Probability
+Cote d'Ivoire,M,22.0,CIV,2016 Summer,2016,Taekwondo,Taekwondo Men's Welterweight,Gold,20-24,1.0,1.0,1.0,3.0,6.0,0,Low Probability
+Crabe II-1,M,28.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Crabe II-4,M,28.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Croatia,M,25.0,CRO,1992 Summer,1992,Basketball,Basketball Men's Basketball,Silver,25-29,58.0,54.0,37.0,149.0,319.0,0,Low Probability
+Cuba,M,23.0,CUB,2008 Summer,2008,Boxing,Boxing Men's Heavyweight,Bronze,20-24,164.0,127.0,116.0,407.0,862.0,0,Low Probability
+Cyprus,M,22.0,CYP,2012 Summer,2012,Sailing,Sailing Men's One Person Dinghy,Silver,20-24,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Czech Republic,M,19.0,CZE,2004 Summer,2004,Athletics,Athletics Men's High Jump,Bronze,15-19,42.0,32.0,60.0,134.0,250.0,0,Low Probability
+Czech Republic-1,F,25.0,CZE,2012 Summer,2012,Tennis,Tennis Women's Doubles,Silver,25-29,0.0,4.0,6.0,10.0,14.0,0,Low Probability
+Czechoslovakia,M,25.0,TCH,1976 Summer,1976,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,25-29,81.0,223.0,182.0,486.0,871.0,0,Low Probability
+Czechoslovakia-1,M,27.0,TCH,1992 Summer,1992,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Denmark,M,30.0,DEN,1920 Summer,1920,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Gold,30-34,168.0,223.0,162.0,553.0,1112.0,0,Low Probability
+Denmark-1,M,33.0,DEN,2012 Summer,2012,Badminton,Badminton Mixed Doubles,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Denmark-2,M,34.0,DEN,2004 Summer,2004,Badminton,Badminton Mixed Doubles,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Denmark/Sweden,M,34.0,DEN,1900 Summer,1900,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,30-34,6.0,0.0,0.0,6.0,18.0,0,Low Probability
+Deutscher Schwimm Verband Berlin,M,18.0,GER,1900 Summer,1900,Swimming,Swimming Men's 200 metres Team Swimming,Gold,15-19,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Devon and Somerset Wanderers,M,25.556898357297374,GBR,1900 Summer,1900,Cricket,Cricket Men's Cricket,Gold,25-29,12.0,0.0,0.0,12.0,36.0,0,Low Probability
+Digby,F,33.0,DEN,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Djibouti,M,31.0,DJI,1988 Summer,1988,Athletics,Athletics Men's Marathon,Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Djinn,M,33.0,ARG,1948 Summer,1948,Sailing,Sailing Mixed 6 metres,Silver,30-34,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Dominican Republic,M,24.0,DOM,2008 Summer,2008,Boxing,Boxing Men's Light-Welterweight,Gold,20-24,3.0,2.0,2.0,7.0,15.0,0,Low Probability
+Don Schufro,M,30.0,DEN,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Dormy-1,M,35.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 6 metres,Gold,35-39,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+East Germany,F,19.0,GDR,1972 Summer,1972,Gymnastics,Gymnastics Women's Team All-Around,Silver,15-19,369.0,309.0,263.0,941.0,1988.0,2,High Probability
+East Germany-1,M,23.0,GDR,1972 Summer,1972,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Gold,20-24,24.0,10.0,8.0,42.0,100.0,0,Low Probability
+East Germany-2,M,20.0,GDR,1988 Winter,1988,Luge,Luge Mixed (Men)'s Doubles,Silver,20-24,4.0,8.0,10.0,22.0,38.0,0,Low Probability
+Ecuador,M,22.0,ECU,1996 Summer,1996,Athletics,Athletics Men's 20 kilometres Walk,Gold,20-24,1.0,1.0,0.0,2.0,5.0,0,Low Probability
+Edelweiss II-1,M,31.0,BEL,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Gold,30-34,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Egypt,M,21.0,EGY,2012 Summer,2012,Fencing,"Fencing Men's Foil, Individual",Silver,20-24,7.0,8.0,12.0,27.0,49.0,0,Low Probability
+Eleda,M,27.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 10 metres,Gold,25-29,7.0,0.0,0.0,7.0,21.0,0,Low Probability
+Elisabeth V,M,25.0,NOR,1924 Summer,1924,Sailing,Sailing Mixed 6 metres,Gold,25-29,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Elisabeth X,M,23.0,NOR,1952 Summer,1952,Sailing,Sailing Mixed 6 metres,Silver,20-24,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Elsie,M,31.0,SWE,1920 Summer,1920,Sailing,Sailing Mixed 40 metres,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Elvis Va,F,43.0,GER,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Gold,40-44,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Emily,M,25.0,GBR,1924 Summer,1924,Sailing,Sailing Mixed 8 metres,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Encore,M,32.0,NOR,1952 Summer,1952,Sailing,Sailing Mixed 5.5 metres,Silver,30-34,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+England,M,24.0,GBR,1912 Summer,1912,Cycling,"Cycling Men's Road Race, Individual",Silver,20-24,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+England-1,M,26.0,GBR,1908 Summer,1908,Hockey,Hockey Men's Hockey,Gold,25-29,11.0,12.0,0.0,23.0,57.0,0,Low Probability
+Eritrea,M,22.0,ERI,2004 Summer,2004,Athletics,"Athletics Men's 10,000 metres",Bronze,20-24,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Erna Signe,M,25.0,SWE,1912 Summer,1912,Sailing,Sailing Mixed 12 metres,Silver,25-29,0.0,10.0,0.0,10.0,20.0,0,Low Probability
+Espadarte,M,28.0,POR,1952 Summer,1952,Sailing,Sailing Mixed Two Person Keelboat,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Esterel-1,M,48.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 10-20 Ton,Gold,45-49,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Estonia,M,24.0,EST,2000 Summer,2000,Judo,Judo Men's Half-Middleweight,Bronze,20-24,13.0,12.0,20.0,45.0,83.0,0,Low Probability
+Ethiopia,M,21.0,ETH,1992 Summer,1992,Athletics,"Athletics Men's 10,000 metres",Bronze,20-24,22.0,9.0,22.0,53.0,106.0,0,Low Probability
+Ethnikos Gymnastikos Syllogos,M,25.556898357297374,GRE,1896 Summer,1896,Gymnastics,"Gymnastics Men's Parallel Bars, Teams",Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Falcon IV,M,25.556898357297374,AUS,1956 Summer,1956,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Fantlet-7,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0-0.5 Ton,Gold,25-29,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Favorite Hammonia-3,M,21.0,GER,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Bronze,20-24,0.0,0.0,6.0,6.0,6.0,0,Low Probability
+Favorite-1,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 2-3 Ton,Silver,25-29,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Femur-1,M,24.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Gold,20-24,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Fiji,M,22.0,FIJ,2016 Summer,2016,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,20-24,13.0,0.0,0.0,13.0,39.0,0,Low Probability
+Finland,M,30.0,FIN,1920 Summer,1920,Swimming,Swimming Men's 200 metres Breaststroke,Bronze,30-34,198.0,263.0,415.0,876.0,1535.0,2,High Probability
+Formosa,M,29.0,USA,1900 Summer,1900,Sailing,Sailing Mixed 20+ Ton,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Fornebo,M,20.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 7 metres,Silver,20-24,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Foxhunters Hurlingham,M,33.0,GBR,1900 Summer,1900,Polo,Polo Men's Polo,Gold,30-34,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+France,M,21.0,FRA,1956 Summer,1956,Cycling,"Cycling Men's Road Race, Team",Gold,20-24,455.0,518.0,577.0,1550.0,2978.0,2,High Probability
+France-1,M,23.0,FRA,1992 Summer,1992,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,20-24,4.0,7.0,11.0,22.0,37.0,0,Low Probability
+France-2,M,30.0,FRA,2012 Summer,2012,Tennis,Tennis Men's Doubles,Bronze,30-34,0.0,0.0,4.0,4.0,4.0,0,Low Probability
+France-3,M,26.0,FRA,1920 Summer,1920,Tennis,Tennis Men's Doubles,Bronze,25-29,2.0,0.0,2.0,4.0,8.0,0,Low Probability
+France/Great Britain,M,33.0,GBR,1900 Summer,1900,Tennis,Tennis Mixed Doubles,Silver,30-34,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Frankfurt Club,M,29.0,GER,1900 Summer,1900,Rugby,Rugby Men's Rugby,Silver,25-29,0.0,15.0,0.0,15.0,30.0,0,Low Probability
+Frimousse,M,25.556898357297374,USA,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Gabon,M,23.0,GAB,2012 Summer,2012,Taekwondo,Taekwondo Men's Heavyweight,Silver,20-24,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Gallant,M,36.0,USA,1932 Summer,1932,Sailing,Sailing Mixed 6 metres,Silver,35-39,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Gallia II,M,41.0,RUS,1912 Summer,1912,Sailing,Sailing Mixed 10 metres,Bronze,40-44,0.0,0.0,7.0,7.0,7.0,0,Low Probability
+Galt Football Club,M,24.0,CAN,1904 Summer,1904,Football,Football Men's Football,Gold,20-24,13.0,0.0,0.0,13.0,39.0,0,Low Probability
+Gem,M,41.0,BAH,1964 Summer,1964,Sailing,Sailing Mixed Two Person Keelboat,Gold,40-44,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Gem IV,M,33.0,BAH,1956 Summer,1956,Sailing,Sailing Mixed Two Person Keelboat,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Georgia,M,25.0,GEO,2000 Summer,2000,Weightlifting,Weightlifting Men's Light-Heavyweight,Bronze,25-29,8.0,6.0,18.0,32.0,54.0,0,Low Probability
+Germania II,M,30.0,GER,1936 Summer,1936,Sailing,Sailing Mixed 8 metres,Bronze,30-34,0.0,0.0,6.0,6.0,6.0,0,Low Probability
+"Germania Ruder Club, Hamburg-2",M,15.0,GER,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Gold,15-19,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Germany,M,24.0,GER,2002 Winter,2002,Nordic Combined,Nordic Combined Men's Team,Silver,20-24,679.0,627.0,678.0,1984.0,3969.0,2,High Probability
+Germany-1,M,34.0,GER,2000 Summer,2000,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Bronze,30-34,28.0,20.0,22.0,70.0,146.0,0,Low Probability
+Germany-2,M,27.0,GER,2010 Winter,2010,Bobsleigh,Bobsleigh Men's Two,Silver,25-29,14.0,4.0,11.0,29.0,61.0,0,Low Probability
+Ghana,M,18.0,GHA,1992 Summer,1992,Football,Football Men's Football,Bronze,15-19,0.0,1.0,22.0,23.0,24.0,0,Low Probability
+Gitana-2,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Bronze,25-29,0.0,5.0,5.0,10.0,15.0,0,Low Probability
+Glider,M,37.0,USA,1964 Summer,1964,Sailing,Sailing Mixed Two Person Keelboat,Silver,35-39,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Great Britain,M,21.0,GBR,1980 Summer,1980,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Bronze,20-24,519.0,582.0,572.0,1673.0,3293.0,2,High Probability
+Great Britain-1,F,30.0,GBR,1912 Summer,1912,Tennis,"Tennis Mixed Doubles, Covered Courts",Silver,30-34,20.0,10.0,4.0,34.0,84.0,0,Low Probability
+Great Britain-2,M,27.0,GBR,2000 Summer,2000,Badminton,Badminton Mixed Doubles,Bronze,25-29,4.0,10.0,14.0,28.0,46.0,0,Low Probability
+Great Britain-3,M,38.0,GBR,1908 Summer,1908,Tennis,Tennis Men's Doubles,Bronze,35-39,0.0,2.0,4.0,6.0,8.0,0,Low Probability
+Great Britain/Germany,M,25.0,GBR,1896 Summer,1896,Tennis,Tennis Men's Doubles,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Greece,F,17.0,GRE,2000 Summer,2000,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,Bronze,15-19,42.0,70.0,62.0,174.0,328.0,0,Low Probability
+Greece-1,M,25.556898357297374,GRE,1906 Summer,1906,Tennis,Tennis Men's Doubles,Silver,25-29,0.0,6.0,0.0,6.0,12.0,0,Low Probability
+Greece-2,M,26.0,GRE,1906 Summer,1906,Tennis,Tennis Mixed Doubles,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Grenada,M,19.0,GRN,2012 Summer,2012,Athletics,Athletics Men's 400 metres,Gold,15-19,1.0,1.0,0.0,2.0,5.0,0,Low Probability
+Guatemala,M,21.0,GUA,2012 Summer,2012,Athletics,Athletics Men's 20 kilometres Walk,Silver,20-24,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Gustel X,M,40.0,GER,1952 Summer,1952,Sailing,Sailing Mixed Three Person Keelboat,Bronze,40-44,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Guyana,M,22.0,GUY,1980 Summer,1980,Boxing,Boxing Men's Bantamweight,Bronze,20-24,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Guyoni,M,36.0,FRA,1908 Summer,1908,Sailing,Sailing Mixed 6 metres,Bronze,35-39,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Gwendoline-2,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 2-3 Ton,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Gyrinus-1,M,29.0,GBR,1908 Summer,1908,Motorboating,Motorboating Mixed B-Class (Under 60 Feet),Gold,25-29,6.0,0.0,0.0,6.0,18.0,0,Low Probability
+Haiti,M,25.556898357297374,HAI,1924 Summer,1924,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,25-29,0.0,1.0,5.0,6.0,7.0,0,Low Probability
+Heatherbell,M,20.0,FIN,1912 Summer,1912,Sailing,Sailing Mixed 12 metres,Bronze,20-24,0.0,0.0,7.0,7.0,7.0,0,Low Probability
+Heira II,M,44.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 12 metres,Gold,40-44,9.0,0.0,0.0,9.0,27.0,0,Low Probability
+Hera-1,M,36.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 12 metres,Gold,35-39,10.0,0.0,0.0,10.0,30.0,0,Low Probability
+Heroine,M,44.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 7 metres,Gold,40-44,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Hi-Hi,M,30.0,DEN,1928 Summer,1928,Sailing,Sailing Mixed 6 metres,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Hilarius,M,22.0,USA,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Gold,20-24,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Hojwa,M,31.0,SWE,1952 Summer,1952,Sailing,Sailing Mixed 5.5 metres,Bronze,30-34,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Hollandia,M,44.0,NED,1928 Summer,1928,Sailing,Sailing Mixed 8 metres,Silver,40-44,0.0,6.0,0.0,6.0,12.0,0,Low Probability
+Hong Kong,F,25.0,HKG,1996 Summer,1996,Sailing,Sailing Women's Windsurfer,Gold,25-29,1.0,0.0,1.0,2.0,4.0,0,Low Probability
+Hong Kong-2,M,28.0,HKG,2004 Summer,2004,Table Tennis,Table Tennis Men's Doubles,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Humbug V,M,32.0,SWE,1964 Summer,1964,Sailing,Sailing Mixed Two Person Keelboat,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Hungary,M,30.0,HUN,1992 Summer,1992,Fencing,"Fencing Men's Sabre, Team",Silver,30-34,432.0,330.0,365.0,1127.0,2321.0,2,High Probability
+Hungary-1,F,21.0,HUN,1948 Winter,1948,Figure Skating,Figure Skating Mixed Pairs,Silver,20-24,0.0,2.0,6.0,8.0,10.0,0,Low Probability
+Hurlingham-2,M,35.0,GBR,1908 Summer,1908,Polo,Polo Men's Polo,Silver,35-39,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Iceland,M,28.0,ISL,2008 Summer,2008,Handball,Handball Men's Handball,Silver,25-29,0.0,15.0,2.0,17.0,32.0,0,Low Probability
+Independent Rowing Club-3,M,26.0,USA,1904 Summer,1904,Rowing,Rowing Men's Double Sculls,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+India,M,30.0,IND,1928 Summer,1928,Hockey,Hockey Men's Hockey,Gold,30-34,138.0,19.0,40.0,197.0,492.0,0,Low Probability
+Individual Olympic Athletes,M,49.0,IOA,2016 Summer,2016,Shooting,Shooting Men's Double Trap,Gold,45-49,1.0,1.0,3.0,5.0,8.0,0,Low Probability
+Indonesia,F,21.0,INA,2016 Summer,2016,Weightlifting,Weightlifting Women's Flyweight,Silver,20-24,7.0,11.0,9.0,27.0,52.0,0,Low Probability
+Indonesia-1,M,29.0,INA,2016 Summer,2016,Badminton,Badminton Mixed Doubles,Gold,25-29,4.0,6.0,4.0,14.0,28.0,0,Low Probability
+Iran,M,26.0,IRI,2016 Summer,2016,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",Bronze,25-29,18.0,21.0,29.0,68.0,125.0,0,Low Probability
+Iraq,M,25.556898357297374,IRQ,1960 Summer,1960,Weightlifting,Weightlifting Men's Lightweight,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Ireland,M,21.0,IRL,2008 Summer,2008,Boxing,Boxing Men's Light-Flyweight,Bronze,20-24,9.0,13.0,13.0,35.0,66.0,0,Low Probability
+Ireland-2,M,21.0,GBR,1908 Summer,1908,Hockey,Hockey Men's Hockey,Silver,20-24,0.0,12.0,0.0,12.0,24.0,0,Low Probability
+Ireland-3,M,33.0,GBR,1908 Summer,1908,Polo,Polo Men's Polo,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Irene,M,36.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 8 metres,Gold,35-39,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Israel,F,25.0,ISR,1992 Summer,1992,Judo,Judo Women's Half-Middleweight,Silver,25-29,1.0,1.0,7.0,9.0,12.0,0,Low Probability
+Italia,M,32.0,ITA,1936 Summer,1936,Sailing,Sailing Mixed 8 metres,Gold,30-34,6.0,0.0,0.0,6.0,18.0,0,Low Probability
+Italy,M,21.0,ITA,2016 Summer,2016,Rowing,Rowing Men's Coxless Pairs,Bronze,20-24,535.0,508.0,484.0,1527.0,3105.0,2,High Probability
+Italy-1,M,21.0,ITA,1968 Winter,1968,Bobsleigh,Bobsleigh Men's Four,Gold,20-24,14.0,8.0,14.0,36.0,72.0,0,Low Probability
+Italy-2,M,23.0,ITA,1956 Winter,1956,Bobsleigh,Bobsleigh Men's Two,Silver,20-24,0.0,10.0,4.0,14.0,24.0,0,Low Probability
+Jamaica,M,20.0,JAM,2016 Summer,2016,Athletics,Athletics Men's 4 x 400 metres Relay,Silver,20-24,38.0,75.0,44.0,157.0,308.0,0,Low Probability
+Japan,M,28.0,JPN,1994 Winter,1994,Nordic Combined,Nordic Combined Men's Team,Gold,25-29,247.0,307.0,357.0,911.0,1712.0,2,High Probability
+Japan-1,F,23.0,JPN,2012 Summer,2012,Badminton,Badminton Women's Doubles,Silver,20-24,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Jest,M,29.0,NZL,1956 Summer,1956,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Jo,M,40.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Gold,40-44,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Jordan,M,20.0,JOR,2016 Summer,2016,Taekwondo,Taekwondo Men's Featherweight,Gold,20-24,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Joy,M,18.0,GBR,1932 Summer,1932,Sailing,Sailing Mixed Two Person Keelboat,Silver,15-19,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Jupiter,M,30.0,USA,1932 Summer,1932,Sailing,Sailing Mixed Two Person Keelboat,Gold,30-34,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+K Division Metropolitan Police Team-3,M,38.0,GBR,1908 Summer,1908,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,35-39,0.0,0.0,8.0,8.0,8.0,0,Low Probability
+Kathleen,M,36.0,USA,1956 Summer,1956,Sailing,Sailing Mixed Two Person Keelboat,Gold,35-39,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Kazakhstan,M,21.0,KAZ,2004 Summer,2004,Boxing,Boxing Men's Welterweight,Gold,20-24,20.0,25.0,32.0,77.0,142.0,0,Low Probability
+Kenya,M,22.0,KEN,1968 Summer,1968,Athletics,Athletics Men's 4 x 400 metres Relay,Silver,20-24,34.0,41.0,31.0,106.0,215.0,0,Low Probability
+Kerstin-1,M,19.0,SWE,1912 Summer,1912,Sailing,Sailing Mixed 6 metres,Bronze,15-19,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Kitty-1,M,29.0,SWE,1912 Summer,1912,Sailing,Sailing Mixed 10 metres,Gold,25-29,8.0,0.0,0.0,8.0,24.0,0,Low Probability
+Kosovo,F,25.0,KOS,2016 Summer,2016,Judo,Judo Women's Half-Lightweight,Gold,25-29,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Kristiania Roklub-1,M,23.0,NOR,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Kullan,M,22.0,SWE,1920 Summer,1920,Sailing,Sailing Mixed 30 metres,Gold,20-24,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Kurush II,M,44.0,CUB,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Silver,40-44,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Kuwait,M,33.0,KUW,2000 Summer,2000,Shooting,Shooting Men's Double Trap,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Kyrgyzstan,M,24.0,KGZ,2008 Summer,2008,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",Silver,20-24,0.0,1.0,2.0,3.0,4.0,0,Low Probability
+L'Aile VI,M,46.0,FRA,1928 Summer,1928,Sailing,Sailing Mixed 8 metres,Gold,45-49,6.0,0.0,0.0,6.0,18.0,0,Low Probability
+Lady C,M,33.0,GBR,1964 Summer,1964,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,30-34,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Lalage,M,27.0,GBR,1936 Summer,1936,Sailing,Sailing Mixed 6 metres,Gold,25-29,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+"Large boat, Central Naval Prep School ""Poros""-1",M,25.556898357297374,GRE,1906 Summer,1906,Rowing,Rowing Men's 17-Man Naval Rowing Boats,Gold,25-29,17.0,0.0,0.0,17.0,51.0,0,Low Probability
+Latvia,M,28.0,LAT,1936 Summer,1936,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Silver,25-29,3.0,13.0,9.0,25.0,44.0,0,Low Probability
+Latvia-1,M,29.0,LAT,2014 Winter,2014,Bobsleigh,Bobsleigh Men's Four,Silver,25-29,0.0,6.0,4.0,10.0,16.0,0,Low Probability
+Laurea-1,M,50.0,GBR,1900 Summer,1900,Sailing,Sailing Mixed 10-20 Ton,Bronze,50-54,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Leander Club #1-1,M,22.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxless Pairs,Gold,20-24,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Leander Club #2-2,M,19.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxless Pairs,Silver,15-19,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Leander Club-1,M,22.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxed Eights,Gold,20-24,18.0,0.0,0.0,18.0,54.0,0,Low Probability
+Leander Club-2,M,22.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxless Fours,Silver,20-24,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Lebanon,M,35.0,LIB,1980 Summer,1980,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Bronze,35-39,0.0,2.0,2.0,4.0,6.0,0,Low Probability
+Lerina,M,29.0,SUI,1900 Summer,1900,Sailing,Sailing Mixed 1-2 Ton,Gold,25-29,3.0,3.0,0.0,6.0,15.0,0,Low Probability
+Libellule de Paris,M,27.0,GBR,1900 Summer,1900,Water Polo,Water Polo Men's Water Polo,Bronze,25-29,0.0,0.0,7.0,7.0,7.0,0,Low Probability
+Liechtenstein,M,30.0,LIE,1988 Winter,1988,Alpine Skiing,Alpine Skiing Men's Slalom,Bronze,30-34,2.0,2.0,5.0,9.0,15.0,0,Low Probability
+"Life boat naval ship ""Spetsai""-1",M,25.556898357297374,GRE,1906 Summer,1906,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,25-29,0.0,7.0,0.0,7.0,14.0,0,Low Probability
+Lithuania,M,26.0,LTU,2000 Summer,2000,Basketball,Basketball Men's Basketball,Bronze,25-29,6.0,7.0,48.0,61.0,80.0,0,Low Probability
+Liverpool Police Team-2,M,36.0,GBR,1908 Summer,1908,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,35-39,0.0,8.0,0.0,8.0,16.0,0,Low Probability
+Llanoria,M,59.0,USA,1952 Summer,1952,Sailing,Sailing Mixed 6 metres,Gold,55-59,11.0,0.0,0.0,11.0,33.0,0,Low Probability
+London City Police-1,M,30.0,GBR,1908 Summer,1908,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,30-34,8.0,0.0,0.0,8.0,24.0,0,Low Probability
+Lucky Girl-1,M,26.0,FIN,1912 Summer,1912,Sailing,Sailing Mixed 8 metres,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Ludwigshafener Ruder Verein-1,M,24.0,GER,1900 Summer,1900,Rowing,Rowing Men's Coxed Fours,Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Ludwigshafener Ruderverein,M,21.0,GER,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Outriggers",Gold,20-24,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Lully II,M,18.0,NOR,1936 Summer,1936,Sailing,Sailing Mixed 6 metres,Silver,15-19,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Luxembourg,M,26.0,LUX,1920 Summer,1920,Weightlifting,Weightlifting Men's Heavyweight,Silver,25-29,4.0,4.0,0.0,8.0,20.0,0,Low Probability
+Lyn-2,M,36.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 8 metres,Silver,35-39,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Ma'Lindo,M,25.0,POR,1960 Summer,1960,Sailing,Sailing Mixed Two Person Keelboat,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Mac Miche,M,27.0,FRA,1912 Summer,1912,Sailing,Sailing Mixed 6 metres,Gold,25-29,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Macedonia,M,26.0,MKD,2000 Summer,2000,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Macky VI,M,21.0,GER,1960 Summer,1960,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,20-24,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Magda IX,M,40.0,NOR,1912 Summer,1912,Sailing,Sailing Mixed 12 metres,Gold,40-44,10.0,0.0,0.0,10.0,30.0,0,Low Probability
+Magdalen College Boat Club-1,M,22.0,GBR,1908 Summer,1908,Rowing,Rowing Men's Coxless Fours,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Malaysia,M,28.0,MAS,2016 Summer,2016,Cycling,Cycling Men's Keirin,Bronze,25-29,0.0,9.0,3.0,12.0,21.0,0,Low Probability
+Malaysia-1,M,28.0,MAS,1996 Summer,1996,Badminton,Badminton Men's Doubles,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Malaysia-2,M,24.0,MAS,1992 Summer,1992,Badminton,Badminton Men's Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Margaret,M,44.0,USA,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Bronze,40-44,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+"Marinai della nave da guerra ""Varese""",M,25.556898357297374,ITA,1906 Summer,1906,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Gold,25-29,7.0,0.0,17.0,24.0,38.0,0,Low Probability
+Marmi II-1,M,31.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Silver,30-34,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Martha-1,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 1-2 Ton,Silver,25-29,0.0,4.0,4.0,8.0,12.0,0,Low Probability
+Mascotte,M,39.0,NED,1900 Summer,1900,Sailing,Sailing Mixed 3-10 Ton,Silver,35-39,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Mauritius,M,30.0,MRI,2008 Summer,2008,Boxing,Boxing Men's Bantamweight,Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+May Be,M,23.0,SWE,1936 Summer,1936,Sailing,Sailing Mixed 6 metres,Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Merope,M,40.0,ITA,1952 Summer,1952,Sailing,Sailing Mixed Two Person Keelboat,Gold,40-44,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Merope III,M,44.0,ITA,1956 Summer,1956,Sailing,Sailing Mixed Two Person Keelboat,Silver,40-44,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Mexico,M,19.0,MEX,1984 Summer,1984,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",Silver,15-19,30.0,26.0,51.0,107.0,193.0,0,Low Probability
+Mignon-3,M,49.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 2-3 Ton,Bronze,45-49,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Milwaukee Athletic Club-1,M,25.556898357297374,USA,1904 Summer,1904,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,25-29,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Minerva Amsterdam,M,25.0,NED,1900 Summer,1900,Rowing,Rowing Men's Coxed Pairs,Gold,25-29,3.0,5.0,9.0,17.0,28.0,0,Low Probability
+Minotaur,M,24.0,USA,1960 Summer,1960,Sailing,Sailing Mixed 5.5 metres,Gold,20-24,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Missouri Athletic Club-3,M,23.0,USA,1904 Summer,1904,Water Polo,Water Polo Men's Water Polo,Bronze,20-24,0.0,0.0,11.0,11.0,11.0,0,Low Probability
+Mohawk Indians-2,M,25.556898357297374,CAN,1904 Summer,1904,Lacrosse,Lacrosse Men's Lacrosse,Bronze,25-29,0.0,0.0,12.0,12.0,12.0,0,Low Probability
+Moldova,M,23.0,MDA,2012 Summer,2012,Weightlifting,Weightlifting Men's Middle-Heavyweight,Bronze,20-24,0.0,3.0,5.0,8.0,11.0,0,Low Probability
+Monaco,M,29.0,MON,1924 Summer,1924,Art Competitions,Art Competitions Mixed Architecture,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Mongolia,M,23.0,MGL,1968 Summer,1968,Wrestling,"Wrestling Men's Flyweight, Freestyle",Bronze,20-24,2.0,10.0,14.0,26.0,40.0,0,Low Probability
+Montenegro,F,25.0,MNE,2012 Summer,2012,Handball,Handball Women's Handball,Silver,25-29,0.0,14.0,0.0,14.0,28.0,0,Low Probability
+Morocco,M,29.0,MAR,1988 Summer,1988,Boxing,Boxing Men's Featherweight,Bronze,25-29,6.0,5.0,12.0,23.0,40.0,0,Low Probability
+Moseley Wanderers,M,23.0,GBR,1900 Summer,1900,Rugby,Rugby Men's Rugby,Silver,20-24,0.0,15.0,0.0,15.0,30.0,0,Low Probability
+Mosk II,M,41.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 10 metres,Gold,40-44,7.0,0.0,0.0,7.0,21.0,0,Low Probability
+Mouchette-2,M,37.0,GBR,1908 Summer,1908,Sailing,Sailing Mixed 12 metres,Silver,35-39,0.0,10.0,0.0,10.0,20.0,0,Low Probability
+Mound City Rowing Club-2,M,16.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Fours,Silver,15-19,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Mozambique,F,23.0,MOZ,1996 Summer,1996,Athletics,Athletics Women's 800 metres,Bronze,20-24,1.0,0.0,1.0,2.0,4.0,0,Low Probability
+Mutafo,M,30.0,GER,1964 Summer,1964,Sailing,Sailing Mixed Three Person Keelboat,Silver,30-34,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Nadine,M,34.0,NED,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Silver,30-34,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Namibia,M,24.0,NAM,1992 Summer,1992,Athletics,Athletics Men's 100 metres,Silver,20-24,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Namoussa,M,44.0,FRA,1924 Summer,1924,Sailing,Sailing Mixed 8 metres,Bronze,40-44,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Nepal,M,25.556898357297374,NEP,1924 Winter,1924,Alpinism,Alpinism Mixed Alpinism,Gold,25-29,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Netherlands,F,22.0,NED,1988 Summer,1988,Hockey,Hockey Women's Hockey,Bronze,20-24,277.0,321.0,390.0,988.0,1863.0,2,High Probability
+Netherlands Antilles,M,19.0,AHO,1988 Summer,1988,Sailing,Sailing Mixed Windsurfer,Silver,15-19,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Netherlands-1,M,26.0,NED,2016 Summer,2016,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+"New College, Oxford-2",M,23.0,GBR,1912 Summer,1912,Rowing,Rowing Men's Coxed Eights,Silver,20-24,0.0,9.0,0.0,9.0,18.0,0,Low Probability
+New York Athletic Club,M,20.0,USA,1904 Summer,1904,Athletics,"Athletics Men's 4 mile, Team",Gold,20-24,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+New York Athletic Club #1-1,M,19.0,USA,1904 Summer,1904,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Gold,15-19,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+New York Athletic Club-1,M,25.556898357297374,USA,1904 Summer,1904,Water Polo,Water Polo Men's Water Polo,Gold,25-29,7.0,0.0,0.0,7.0,21.0,0,Low Probability
+"New York Turnverein, New York",M,27.0,USA,1904 Summer,1904,Gymnastics,Gymnastics Men's Team All-Around,Silver,25-29,0.0,6.0,0.0,6.0,12.0,0,Low Probability
+New Zealand,M,27.0,NZL,1976 Summer,1976,Hockey,Hockey Men's Hockey,Gold,25-29,85.0,56.0,82.0,223.0,449.0,0,Low Probability
+Niger,M,21.0,NIG,2016 Summer,2016,Taekwondo,Taekwondo Men's Heavyweight,Silver,20-24,0.0,1.0,1.0,2.0,3.0,0,Low Probability
+Nigeria,M,22.0,NGR,2008 Summer,2008,Football,Football Men's Football,Silver,20-24,23.0,30.0,46.0,99.0,175.0,0,Low Probability
+Nina,M,38.0,FIN,1912 Summer,1912,Sailing,Sailing Mixed 10 metres,Silver,35-39,0.0,7.0,0.0,7.0,14.0,0,Low Probability
+Nina Claire-2,M,28.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 1-2 Ton,Bronze,25-29,0.0,0.0,4.0,4.0,4.0,0,Low Probability
+Nirefs,M,28.0,GRE,1960 Summer,1960,Sailing,Sailing Mixed Three Person Keelboat,Gold,25-29,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Norna,M,24.0,NOR,1928 Summer,1928,Sailing,Sailing Mixed 6 metres,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+North Korea,F,28.0,PRK,2008 Summer,2008,Judo,Judo Women's Half-Lightweight,Silver,25-29,16.0,16.0,33.0,65.0,113.0,0,Low Probability
+North Korea-1,F,23.0,PRK,1992 Summer,1992,Table Tennis,Table Tennis Women's Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Norway,M,20.0,NOR,1992 Winter,1992,Alpine Skiing,Alpine Skiing Men's Super G,Gold,20-24,299.0,330.0,281.0,910.0,1838.0,2,High Probability
+Nrnberg,M,22.0,NED,1936 Summer,1936,Sailing,Sailing Mixed One Person Dinghy,Gold,20-24,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Nurdug II,M,23.0,DEN,1912 Summer,1912,Sailing,Sailing Mixed 6 metres,Silver,20-24,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Nykjbings paa Falster,M,30.0,DEN,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,30-34,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Olle,M,31.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 2-3 Ton,Gold,30-34,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Omas Helliniki P. S.,M,25.556898357297374,GRE,1906 Summer,1906,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,25-29,0.0,8.0,0.0,8.0,16.0,0,Low Probability
+Oranje,M,19.0,NED,1920 Summer,1920,Sailing,Sailing Mixed 6.5 metres,Gold,15-19,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Ormsund Roklub-2,M,29.0,NOR,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+"Osborne Swimming Club, Manchester",M,25.556898357297374,GBR,1900 Summer,1900,Water Polo,Water Polo Men's Water Polo,Gold,25-29,7.0,0.0,0.0,7.0,21.0,0,Low Probability
+Pakistan,M,38.0,PAK,1960 Summer,1960,Hockey,Hockey Men's Hockey,Gold,35-39,42.0,45.0,34.0,121.0,250.0,0,Low Probability
+Pan,M,21.0,NOR,1948 Summer,1948,Sailing,Sailing Mixed Three Person Keelboat,Gold,20-24,6.0,0.0,0.0,6.0,18.0,0,Low Probability
+Panama,M,26.0,PAN,1948 Summer,1948,Athletics,Athletics Men's 100 metres,Bronze,25-29,1.0,0.0,2.0,3.0,5.0,0,Low Probability
+Pandora,M,34.0,NZL,1964 Summer,1964,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Gold,30-34,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Paraguay,M,22.0,PAR,2004 Summer,2004,Football,Football Men's Football,Silver,20-24,0.0,17.0,0.0,17.0,34.0,0,Low Probability
+Peru,M,19.0,PER,1984 Summer,1984,Shooting,Shooting Mixed Trap,Silver,15-19,1.0,14.0,0.0,15.0,31.0,0,Low Probability
+"Phalainis ton Thorichtou ""Hydra""-2",M,25.556898357297374,GRE,1906 Summer,1906,Rowing,Rowing Men's 17-Man Naval Rowing Boats,Silver,25-29,0.0,17.0,7.0,24.0,41.0,0,Low Probability
+"Philadelphia Turngemeinde, Philadelphia",M,24.0,USA,1904 Summer,1904,Gymnastics,Gymnastics Men's Team All-Around,Gold,20-24,6.0,0.0,0.0,6.0,18.0,0,Low Probability
+Philippines,F,25.0,PHI,2016 Summer,2016,Weightlifting,Weightlifting Women's Featherweight,Silver,25-29,0.0,3.0,7.0,10.0,13.0,0,Low Probability
+Pistoja/Firenze,M,19.0,ITA,1906 Summer,1906,Gymnastics,Gymnastics Men's Team All-Around,Bronze,15-19,0.0,0.0,9.0,9.0,9.0,0,Low Probability
+Poland,M,23.0,POL,1980 Summer,1980,Boxing,Boxing Men's Lightweight,Bronze,20-24,117.0,193.0,253.0,563.0,990.0,0,Low Probability
+Poland-1,M,27.0,POL,2000 Summer,2000,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Polyteknisk Roklub-1,M,22.0,DEN,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Portugal,M,24.0,POR,1996 Summer,1996,Sailing,Sailing Men's Two Person Dinghy,Bronze,20-24,4.0,7.0,24.0,35.0,50.0,0,Low Probability
+Potomac Archers,M,48.0,USA,1904 Summer,1904,Archery,Archery Men's Team Round,Gold,45-49,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Potsdam,M,26.0,GBR,1936 Summer,1936,Sailing,Sailing Mixed One Person Dinghy,Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Puerto Rico,M,21.0,PUR,1992 Summer,1992,Boxing,Boxing Men's Welterweight,Bronze,20-24,1.0,2.0,6.0,9.0,13.0,0,Low Probability
+Pupilles de Neptune de Lille #2-1,M,25.556898357297374,FRA,1900 Summer,1900,Water Polo,Water Polo Men's Water Polo,Bronze,25-29,0.0,0.0,8.0,8.0,8.0,0,Low Probability
+Pupilles de Neptune de Lille-1,M,20.0,FRA,1900 Summer,1900,Swimming,Swimming Men's 200 metres Team Swimming,Bronze,20-24,0.0,0.0,4.0,4.0,4.0,0,Low Probability
+Qatar,M,41.0,QAT,2012 Summer,2012,Shooting,Shooting Men's Skeet,Bronze,40-44,0.0,1.0,4.0,5.0,6.0,0,Low Probability
+Quand-Mme-2,M,23.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0-0.5 Ton,Silver,20-24,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Racing Club de France,M,25.556898357297374,FRA,1900 Summer,1900,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,25-29,0.0,11.0,0.0,11.0,22.0,0,Low Probability
+Ralia,M,43.0,FIN,1952 Summer,1952,Sailing,Sailing Mixed 6 metres,Bronze,40-44,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Ravenswood Boat Club-2,M,25.556898357297374,USA,1904 Summer,1904,Rowing,Rowing Men's Double Sculls,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Roddklubben af 1912-1,M,25.0,SWE,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,25-29,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Roehampton-1,M,39.0,GBR,1908 Summer,1908,Polo,Polo Men's Polo,Gold,35-39,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Romania,F,16.0,ROU,2008 Summer,2008,Gymnastics,Gymnastics Women's Team All-Around,Bronze,15-19,161.0,200.0,290.0,651.0,1173.0,0,Low Probability
+Romania-1,M,26.0,ROU,1968 Winter,1968,Bobsleigh,Bobsleigh Men's Two,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Rose Pompon,M,35.0,FRA,1920 Summer,1920,Sailing,Sailing Mixed 6.5 metres,Silver,35-39,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Rostock,M,35.0,GER,1936 Summer,1936,Sailing,Sailing Mixed One Person Dinghy,Silver,35-39,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Rowing Club Castillon-3,M,36.0,FRA,1900 Summer,1900,Rowing,Rowing Men's Coxed Pairs,Bronze,35-39,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Royal Club Nautique de Gand,M,27.0,BEL,1900 Summer,1900,Rowing,Rowing Men's Coxed Eights,Silver,25-29,0.0,21.0,0.0,21.0,42.0,0,Low Probability
+Rush V,M,50.0,SWE,1956 Summer,1956,Sailing,Sailing Mixed 5.5 metres,Gold,50-54,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Rush VII,M,28.0,SWE,1964 Summer,1964,Sailing,Sailing Mixed 5.5 metres,Silver,25-29,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Russia,F,22.0,RUS,2008 Summer,2008,Athletics,Athletics Women's Javelin Throw,Silver,20-24,366.0,351.0,393.0,1110.0,2193.0,2,High Probability
+Russia-1,M,28.0,RUS,2002 Winter,2002,Figure Skating,Figure Skating Mixed Ice Dancing,Silver,25-29,22.0,6.0,8.0,36.0,86.0,0,Low Probability
+Russia-2,F,20.0,RUS,1998 Winter,1998,Figure Skating,Figure Skating Mixed Pairs,Silver,20-24,2.0,10.0,0.0,12.0,26.0,0,Low Probability
+Salinero,F,40.0,NED,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Silver,40-44,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Sans Atout-1,M,28.0,SWE,1912 Summer,1912,Sailing,Sailing Mixed 8 metres,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Santa Maria,M,46.0,CAN,1932 Summer,1932,Sailing,Sailing Mixed 8 metres,Silver,45-49,0.0,6.0,0.0,6.0,12.0,0,Low Probability
+Sarcelle-3,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0-0.5 Ton,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Satchmo,F,39.0,GER,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Gold,35-39,1.0,0.0,0.0,1.0,3.0,0,Low Probability
+Saudi Arabia,M,40.0,KSA,2012 Summer,2012,Equestrianism,"Equestrianism Mixed Jumping, Team",Bronze,40-44,0.0,1.0,5.0,6.0,7.0,0,Low Probability
+Scamasaxe-2,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Scamasaxe-3,M,25.556898357297374,FRA,1900 Summer,1900,Sailing,Sailing Mixed 0.5-1 Ton,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Scotia,M,29.0,GBR,1900 Summer,1900,Sailing,Sailing Mixed Open,Gold,25-29,6.0,0.0,0.0,6.0,18.0,0,Low Probability
+Scotland-3,M,24.0,GBR,1908 Summer,1908,Hockey,Hockey Men's Hockey,Bronze,20-24,0.0,0.0,11.0,11.0,11.0,0,Low Probability
+Seawanhaka Boat Club-1,M,27.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Pairs,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Senegal,M,29.0,SEN,1988 Summer,1988,Athletics,Athletics Men's 400 metres Hurdles,Silver,25-29,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Serbia,M,26.0,SRB,2012 Summer,2012,Water Polo,Water Polo Men's Water Polo,Bronze,25-29,15.0,29.0,41.0,85.0,144.0,0,Low Probability
+Serbia and Montenegro,M,26.0,SCG,1996 Summer,1996,Volleyball,Volleyball Men's Volleyball,Bronze,25-29,12.0,26.0,26.0,64.0,114.0,0,Low Probability
+Shrew II,M,52.0,USA,1960 Summer,1960,Sailing,Sailing Mixed Two Person Keelboat,Bronze,50-54,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Sif,M,23.0,SWE,1920 Summer,1920,Sailing,Sailing Mixed 40 metres,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Sildra-1,M,32.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 8 metres,Gold,30-34,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Silja,M,37.0,NOR,1936 Summer,1936,Sailing,Sailing Mixed 8 metres,Silver,35-39,0.0,6.0,0.0,6.0,12.0,0,Low Probability
+Singapore,F,21.0,SGP,2008 Summer,2008,Table Tennis,Table Tennis Women's Team,Silver,20-24,1.0,4.0,4.0,9.0,15.0,0,Low Probability
+Sirene,M,21.0,NOR,1960 Summer,1960,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Gold,20-24,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Skum,M,22.0,DEN,1960 Summer,1960,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,20-24,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Slaghoken,M,42.0,SWE,1948 Summer,1948,Sailing,Sailing Mixed Three Person Keelboat,Silver,40-44,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Slaghoken II,M,50.0,SWE,1956 Summer,1956,Sailing,Sailing Mixed Three Person Keelboat,Gold,50-54,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Slovakia,M,27.0,SVK,2004 Summer,2004,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Bronze,25-29,15.0,19.0,13.0,47.0,96.0,0,Low Probability
+Slovenia,F,26.0,SLO,1996 Summer,1996,Athletics,Athletics Women's 100 metres Hurdles,Silver,25-29,8.0,13.0,27.0,48.0,77.0,0,Low Probability
+Smyrna,M,25.556898357297374,GBR,1906 Summer,1906,Football,Football Men's Football,Silver,25-29,0.0,11.0,0.0,11.0,22.0,0,Low Probability
+Snap,M,23.0,DEN,1948 Summer,1948,Sailing,Sailing Mixed Three Person Keelboat,Bronze,20-24,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Societ Nautique de la Marne-1,M,25.556898357297374,FRA,1900 Summer,1900,Rowing,Rowing Men's Coxed Pairs,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Socit Nautique de Bayonne-1,M,35.0,FRA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 mile),Bronze,35-39,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Socit Nautique de Bayonne-2,M,35.0,FRA,1906 Summer,1906,Rowing,Rowing Men's Coxed Fours,Bronze,35-39,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Socit Nautique de la Basse Seine-1,M,24.0,FRA,1906 Summer,1906,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Bronze,20-24,0.0,5.0,3.0,8.0,13.0,0,Low Probability
+Sorais-2,M,25.556898357297374,GBR,1908 Summer,1908,Sailing,Sailing Mixed 8 metres,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+South Africa,F,17.0,RSA,1956 Summer,1956,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,15-19,32.0,47.0,52.0,131.0,242.0,0,Low Probability
+South Korea,M,22.0,KOR,2016 Summer,2016,Judo,Judo Men's Half-Lightweight,Silver,20-24,211.0,222.0,159.0,592.0,1236.0,0,Low Probability
+South Korea-1,M,22.0,KOR,1992 Summer,1992,Table Tennis,Table Tennis Men's Doubles,Bronze,20-24,6.0,6.0,18.0,30.0,48.0,0,Low Probability
+South Korea-2,M,23.0,KOR,1988 Summer,1988,Table Tennis,Table Tennis Men's Doubles,Bronze,20-24,4.0,4.0,8.0,16.0,28.0,0,Low Probability
+Soviet Union,M,26.0,URS,1972 Summer,1972,Wrestling,"Wrestling Men's Featherweight, Freestyle",Gold,25-29,1058.0,716.0,677.0,2451.0,5283.0,2,High Probability
+Soviet Union-1,M,21.0,URS,1984 Winter,1984,Luge,Luge Mixed (Men)'s Doubles,Silver,20-24,22.0,4.0,0.0,26.0,74.0,0,Low Probability
+Soviet Union-2,M,26.0,URS,1984 Winter,1984,Bobsleigh,Bobsleigh Men's Two,Bronze,25-29,0.0,12.0,12.0,24.0,36.0,0,Low Probability
+Spain,M,30.0,ESP,2008 Summer,2008,Fencing,"Fencing Men's epee, Individual",Bronze,30-34,108.0,239.0,136.0,483.0,938.0,0,Low Probability
+Spain-1,F,26.0,ESP,2008 Summer,2008,Tennis,Tennis Women's Doubles,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Spain-2,M,34.0,ESP,2016 Summer,2016,Tennis,Tennis Men's Doubles,Gold,30-34,2.0,2.0,0.0,4.0,10.0,0,Low Probability
+Sri Lanka,F,24.0,SRI,2000 Summer,2000,Athletics,Athletics Women's 200 metres,Silver,20-24,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+St. Louis Amateur Athletic Association,M,25.556898357297374,USA,1904 Summer,1904,Lacrosse,Lacrosse Men's Lacrosse,Silver,25-29,0.0,12.0,0.0,12.0,24.0,0,Low Probability
+St. Louis Southwest Turnverein #1-2,M,25.556898357297374,USA,1904 Summer,1904,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+St. Louis Southwest Turnverein #2-3,M,22.0,USA,1904 Summer,1904,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,20-24,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+St. Rose-2,M,25.556898357297374,USA,1904 Summer,1904,Football,Football Men's Football,Bronze,25-29,0.0,0.0,12.0,12.0,12.0,0,Low Probability
+Starita,M,40.0,NED,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Bronze,40-44,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Stella-2,M,47.0,NOR,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Bronze,45-49,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Sudan,M,23.0,SUD,2008 Summer,2008,Athletics,Athletics Men's 800 metres,Silver,20-24,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Sunrise,F,31.0,NED,2008 Summer,2008,Equestrianism,"Equestrianism Mixed Dressage, Team",Silver,30-34,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Sunshine,M,34.0,SWE,1936 Summer,1936,Sailing,Sailing Mixed Two Person Keelboat,Silver,30-34,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Suriname,M,20.0,SUR,1988 Summer,1988,Swimming,Swimming Men's 100 metres Butterfly,Gold,20-24,1.0,0.0,1.0,2.0,4.0,0,Low Probability
+Sweden,M,19.0,SWE,1912 Summer,1912,Athletics,Athletics Men's Long Jump,Bronze,15-19,451.0,476.0,507.0,1434.0,2812.0,2,High Probability
+Sweden-1,F,25.0,SWE,1912 Summer,1912,Tennis,Tennis Mixed Doubles,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Sweden-2,M,34.0,SWE,2008 Summer,2008,Tennis,Tennis Men's Doubles,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Sweden-3,F,25.0,SWE,1912 Summer,1912,Tennis,"Tennis Mixed Doubles, Covered Courts",Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Swedish Star,M,40.0,SWE,1932 Summer,1932,Sailing,Sailing Mixed Two Person Keelboat,Bronze,40-44,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Swift,M,26.0,GBR,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Switzerland,M,22.0,SUI,1924 Summer,1924,Football,Football Men's Football,Silver,20-24,144.0,213.0,231.0,588.0,1089.0,0,Low Probability
+Switzerland-1,M,26.0,SUI,1992 Winter,1992,Bobsleigh,Bobsleigh Men's Two,Gold,25-29,20.0,22.0,30.0,72.0,134.0,0,Low Probability
+Switzerland-2,M,24.0,SUI,1994 Winter,1994,Bobsleigh,Bobsleigh Men's Two,Silver,20-24,8.0,10.0,4.0,22.0,48.0,0,Low Probability
+Sylvia,M,28.0,SWE,1928 Summer,1928,Sailing,Sailing Mixed 8 metres,Bronze,25-29,0.0,0.0,6.0,6.0,6.0,0,Low Probability
+Symphony,M,27.0,POR,1948 Summer,1948,Sailing,Sailing Mixed Two Person Keelboat,Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Syria,M,22.0,SYR,2004 Summer,2004,Boxing,Boxing Men's Heavyweight,Bronze,20-24,1.0,1.0,1.0,3.0,6.0,0,Low Probability
+Taifun,M,25.0,NOR,1912 Summer,1912,Sailing,Sailing Mixed 8 metres,Gold,25-29,5.0,0.0,0.0,5.0,15.0,0,Low Probability
+Tajikistan,M,30.0,TJK,2008 Summer,2008,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Silver,30-34,1.0,1.0,2.0,4.0,7.0,0,Low Probability
+Tan-Fe-Pah,M,43.0,BEL,1920 Summer,1920,Sailing,Sailing Mixed 6 metres,Silver,40-44,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Tango,M,45.0,ARG,1960 Summer,1960,Sailing,Sailing Mixed Three Person Keelboat,Silver,45-49,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Tanzania,M,27.0,TAN,1980 Summer,1980,Athletics,"Athletics Men's 3,000 metres Steeplechase",Silver,25-29,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+Thailand,M,24.0,THA,2004 Summer,2004,Boxing,Boxing Men's Light-Welterweight,Gold,20-24,9.0,8.0,13.0,30.0,56.0,0,Low Probability
+Thames Rowing Club,M,43.0,GBR,1912 Summer,1912,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,40-44,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Thessalonki-1,M,25.556898357297374,GRE,1906 Summer,1906,Football,Football Men's Football,Bronze,25-29,0.0,0.0,11.0,11.0,11.0,0,Low Probability
+Tip,M,26.0,DEN,1956 Summer,1956,Sailing,Sailing Mixed Three Person Keelboat,Silver,25-29,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+Togo,M,27.0,TOG,2008 Summer,2008,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Bronze,25-29,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Tonga,M,26.0,TGA,1996 Summer,1996,Boxing,Boxing Men's Super-Heavyweight,Silver,25-29,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+Tornado,M,39.0,SWE,1952 Summer,1952,Sailing,Sailing Mixed Three Person Keelboat,Silver,35-39,2.0,3.0,0.0,5.0,12.0,0,Low Probability
+Toronto Argonauts,M,25.556898357297374,CAN,1904 Summer,1904,Rowing,Rowing Men's Coxed Eights,Silver,25-29,0.0,9.0,9.0,18.0,27.0,0,Low Probability
+Trans-Mississippi Golf Association-2,M,38.0,USA,1904 Summer,1904,Golf,Golf Men's Team,Silver,35-39,0.0,10.0,0.0,10.0,20.0,0,Low Probability
+Trinidad and Tobago,M,23.0,TTO,2012 Summer,2012,Athletics,Athletics Men's 4 x 400 metres Relay,Bronze,20-24,7.0,8.0,17.0,32.0,54.0,0,Low Probability
+Tritons Lillois-2,M,25.556898357297374,FRA,1900 Summer,1900,Swimming,Swimming Men's 200 metres Team Swimming,Silver,25-29,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Tunisia,F,27.0,TUN,2016 Summer,2016,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,25-29,3.0,3.0,7.0,13.0,22.0,0,Low Probability
+Turkey,F,25.0,TUR,2008 Summer,2008,Athletics,"Athletics Women's 5,000 metres",Silver,25-29,40.0,27.0,28.0,95.0,202.0,0,Low Probability
+Turquoise-1,M,32.0,FRA,1900 Summer,1900,Sailing,Sailing Mixed Open,Bronze,30-34,0.0,0.0,1.0,1.0,1.0,0,Low Probability
+Tutti V,M,29.0,EST,1928 Summer,1928,Sailing,Sailing Mixed 6 metres,Bronze,25-29,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+USFSA,M,18.0,FRA,1900 Summer,1900,Football,Football Men's Football,Silver,15-19,0.0,13.0,0.0,13.0,26.0,0,Low Probability
+Uganda,M,22.0,UGA,1972 Summer,1972,Athletics,Athletics Men's 400 metres Hurdles,Gold,20-24,2.0,3.0,2.0,7.0,14.0,0,Low Probability
+Ukraine,M,35.0,UKR,2008 Summer,2008,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Gold,35-39,47.0,52.0,98.0,197.0,343.0,0,Low Probability
+Ukraine-1,M,33.0,UKR,2006 Winter,2006,Figure Skating,Figure Skating Mixed Ice Dancing,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Unified Team,M,26.0,EUN,1992 Summer,1992,Athletics,Athletics Men's Hammer Throw,Gold,25-29,123.0,69.0,79.0,271.0,586.0,0,Low Probability
+Unified Team-1,M,24.0,EUN,1992 Winter,1992,Figure Skating,Figure Skating Mixed Pairs,Gold,20-24,4.0,0.0,0.0,4.0,12.0,0,Low Probability
+Unified Team-2,F,26.0,EUN,1992 Winter,1992,Figure Skating,Figure Skating Mixed Pairs,Silver,25-29,0.0,2.0,2.0,4.0,6.0,0,Low Probability
+Union des Socits Franais de Sports Athletiques,M,20.0,FRA,1900 Summer,1900,Rugby,Rugby Men's Rugby,Gold,20-24,17.0,12.0,0.0,29.0,75.0,0,Low Probability
+United Arab Emirates,M,40.0,UAE,2004 Summer,2004,Shooting,Shooting Men's Double Trap,Gold,40-44,1.0,0.0,1.0,2.0,4.0,0,Low Probability
+United Arab Republic,M,24.0,UAR,1960 Summer,1960,Boxing,Boxing Men's Flyweight,Bronze,20-24,0.0,1.0,1.0,2.0,3.0,0,Low Probability
+United States,M,26.0,USA,2004 Summer,2004,Wrestling,"Wrestling Men's Featherweight, Freestyle",Silver,25-29,2474.0,1512.0,1233.0,5219.0,11679.0,1,Medium Probability
+United States Golf Association-3,M,20.0,USA,1904 Summer,1904,Golf,Golf Men's Team,Bronze,20-24,0.0,0.0,10.0,10.0,10.0,0,Low Probability
+United States Virgin Islands,M,27.0,ISV,1988 Summer,1988,Sailing,Sailing Mixed One Person Dinghy,Silver,25-29,0.0,1.0,0.0,1.0,2.0,0,Low Probability
+United States-1,M,24.0,USA,2006 Winter,2006,Figure Skating,Figure Skating Mixed Ice Dancing,Silver,20-24,38.0,33.0,30.0,101.0,210.0,0,Low Probability
+United States-2,F,25.0,USA,2002 Winter,2002,Bobsleigh,Bobsleigh Women's Two,Gold,25-29,17.0,14.0,20.0,51.0,99.0,0,Low Probability
+United States-3,M,27.0,USA,1904 Summer,1904,Tennis,Tennis Men's Doubles,Bronze,25-29,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+United States-4,M,22.0,USA,1904 Summer,1904,Tennis,Tennis Men's Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+United States/France,M,40.0,USA,1900 Summer,1900,Tennis,Tennis Men's Doubles,Silver,40-44,0.0,2.0,0.0,2.0,4.0,0,Low Probability
+United States/Great Britain,M,24.0,GBR,1900 Summer,1900,Tennis,Tennis Mixed Doubles,Bronze,20-24,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Univ. of Brussels,M,25.556898357297374,BEL,1900 Summer,1900,Football,Football Men's Football,Bronze,25-29,0.0,0.0,11.0,11.0,11.0,0,Low Probability
+Upton Park FC,M,24.0,GBR,1900 Summer,1900,Football,Football Men's Football,Gold,20-24,11.0,0.0,0.0,11.0,33.0,0,Low Probability
+Uruguay,M,27.0,URU,1952 Summer,1952,Basketball,Basketball Men's Basketball,Bronze,25-29,31.0,2.0,30.0,63.0,127.0,0,Low Probability
+Uzbekistan,M,26.0,UZB,2000 Summer,2000,Boxing,Boxing Men's Light-Welterweight,Gold,25-29,10.0,7.0,17.0,34.0,61.0,0,Low Probability
+Venezuela,M,20.0,VEN,1984 Summer,1984,Boxing,Boxing Men's Light-Flyweight,Bronze,20-24,2.0,3.0,10.0,15.0,22.0,0,Low Probability
+Venilia,M,27.0,ITA,1960 Summer,1960,Sailing,Sailing Mixed Three Person Keelboat,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Vesper Boat Club,M,15.0,USA,1900 Summer,1900,Rowing,Rowing Men's Coxed Eights,Gold,15-19,18.0,0.0,0.0,18.0,54.0,0,Low Probability
+Vietnam,M,23.0,VIE,2008 Summer,2008,Weightlifting,Weightlifting Men's Bantamweight,Silver,20-24,1.0,3.0,0.0,4.0,9.0,0,Low Probability
+Vinga-1,M,43.0,SWE,1908 Summer,1908,Sailing,Sailing Mixed 8 metres,Silver,40-44,0.0,5.0,0.0,5.0,10.0,0,Low Probability
+Vision,M,34.0,GBR,1956 Summer,1956,Sailing,Sailing Mixed 5.5 metres,Silver,30-34,0.0,4.0,0.0,4.0,8.0,0,Low Probability
+Wales-4,M,25.556898357297374,GBR,1908 Summer,1908,Hockey,Hockey Men's Hockey,Bronze,25-29,0.0,0.0,11.0,11.0,11.0,0,Low Probability
+Wannsee,M,32.0,GER,1936 Summer,1936,Sailing,Sailing Mixed Two Person Keelboat,Gold,30-34,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+Web II,M,48.0,DEN,1960 Summer,1960,Sailing,Sailing Mixed 5.5 metres,Silver,45-49,0.0,3.0,0.0,3.0,6.0,0,Low Probability
+West Germany,M,20.0,FRG,1984 Summer,1984,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",Bronze,20-24,155.0,184.0,219.0,558.0,1052.0,0,Low Probability
+West Germany-1,M,26.0,FRG,1968 Winter,1968,Bobsleigh,Bobsleigh Men's Two,Silver,25-29,2.0,10.0,14.0,26.0,40.0,0,Low Probability
+West Germany-2,M,25.0,FRG,1972 Winter,1972,Bobsleigh,Bobsleigh Men's Two,Gold,25-29,2.0,0.0,0.0,2.0,6.0,0,Low Probability
+West Indies Federation,M,30.0,WIF,1960 Summer,1960,Athletics,Athletics Men's 4 x 400 metres Relay,Bronze,30-34,0.0,0.0,5.0,5.0,5.0,0,Low Probability
+Western Golf Association-1,M,17.0,USA,1904 Summer,1904,Golf,Golf Men's Team,Gold,15-19,10.0,0.0,0.0,10.0,30.0,0,Low Probability
+Western Rowing Club-3,M,33.0,USA,1904 Summer,1904,Rowing,Rowing Men's Coxless Pairs,Bronze,30-34,0.0,0.0,6.0,6.0,6.0,0,Low Probability
+White Lady,M,49.0,DEN,1964 Summer,1964,Sailing,Sailing Mixed Three Person Keelboat,Gold,45-49,3.0,0.0,0.0,3.0,9.0,0,Low Probability
+Widgeon,M,34.0,USA,1964 Summer,1964,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,30-34,0.0,0.0,2.0,2.0,2.0,0,Low Probability
+Willem-Six,M,27.0,NED,1924 Summer,1924,Sailing,Sailing Mixed 6 metres,Bronze,25-29,0.0,0.0,3.0,3.0,3.0,0,Low Probability
+Winnipeg Shamrocks-1,M,22.0,CAN,1904 Summer,1904,Lacrosse,Lacrosse Men's Lacrosse,Gold,20-24,12.0,0.0,0.0,12.0,36.0,0,Low Probability
+Yugoslavia,F,19.0,YUG,1980 Summer,1980,Handball,Handball Women's Handball,Silver,15-19,130.0,167.0,93.0,390.0,817.0,0,Low Probability
+Zambia,M,27.0,ZAM,1996 Summer,1996,Athletics,Athletics Men's 400 metres Hurdles,Silver,25-29,0.0,1.0,1.0,2.0,3.0,0,Low Probability
+Zimbabwe,F,30.0,ZIM,1980 Summer,1980,Hockey,Hockey Women's Hockey,Gold,30-34,17.0,4.0,1.0,22.0,60.0,0,Low Probability
+Zut,M,31.0,BEL,1908 Summer,1908,Sailing,Sailing Mixed 6 metres,Silver,30-34,0.0,3.0,0.0,3.0,6.0,0,Low Probability
