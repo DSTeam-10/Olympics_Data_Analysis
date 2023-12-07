@@ -23,7 +23,7 @@ def index():
 def predict():
     df = pd.read_csv("../output.csv")
     if request.method == 'POST':
-        team_name = request.form.get('teamName').capitalize()
+        team_name = request.form.get('teamName')
         # if team_name in dataset_name:
         #     get the values of gold medal cloumn, silver medal column, bronze medal coulmn and store it in 3 variables
 
